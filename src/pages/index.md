@@ -31,7 +31,7 @@ Go in depth to learn about how the Adobe Experience Cloud is architected
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
-![Experience Platform Logo](aec-logo.svg)
+![Experience Platform Logo](aep-logo.svg)
 
 ### Experience Platform Essentials
 
@@ -42,7 +42,7 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
-![Experience Platform Foundation](aep-logo.svg)
+![Experience Platform Foundation](images/aep-foundation.png)
 
 ### Experience Platform Technical Foundation
 
