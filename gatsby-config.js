@@ -18,19 +18,30 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'Courses',
-        path: '/course/'
+        title: 'Blueprints',
+        path: '/blueprints/'
+      },
+      {
+        title: 'Training Courses',
+        menu: [{
+          title: 'Experience Cloud Essentials',
+          path: '/courses/experience-cloud-essentials/'
+        }, {
+         title: 'Experience Platform Essentials',
+         path: '/courses/experience-cloud-essentials/'
+       }, {
+        title: 'Experience Platform Technical Foundation',
+        path: '/courses/experience-cloud-essentials/'         
+       }]
       },
       {
         title: 'API Reference',
         path: '/experience-platform-apis/'
-      },
-      {
-        title: 'Support',
-        path: '/support/'
       }
     ],
-    subPages: []
+    subPages: [
+
+    ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
   pathPrefix: process.env.PATH_PREFIX || '/dep/'
