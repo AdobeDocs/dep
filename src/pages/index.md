@@ -46,6 +46,6 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 
 ### Experience Platform Technical Foundation
 
-A comprehensive course that covers all aspects of the Experience Platform at an architectural level. Purpose built for developers and architects who want deep technical training and knowledge.
+A comprehensive course that covers all aspects of the Experience Platform at a deep architectural level. Purpose built for data engineers, data architects, enterprise architects and general developers who want deep technical training and knowledge with hands on labs.
 
 * [Learn More](/courses/experience-platform-technical-foundation/)  
