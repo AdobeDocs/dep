@@ -4,48 +4,54 @@ description: Training for the Enterprise Architect, Data Architect, Data Enginee
 contributors:
   - https://github.com/dbenge 
   - https://github.com/knee
+hideBreadcrumbNav: true 
 ---
 
-<Hero slots="heading, text" variant="fullwidth"/> 
+<Hero slots="image, heading, text" variant="fullwidth" background="rgb(51, 51, 51)"/> 
 
-# Developer Experience for Experience Platform
+![Hero Image](images/dep-hero-v2.png)
 
-Educating and enabling developers and architects on the "_why_" behind the "_how_" with Experience Platform
+# Developer Experience starts here!
+
+Educating and enabling developers, architects, engineers and tech savvy folks on the "_why_" behind the "_how_" with Experience Platform
+
+
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Enablement Courses
+### Start Learning
 
 The Adobe Experience Platform powers a wide breadth of the Experience Cloud applications by offering a centralized brain for data, customer profiles and segmentation. In order to understand how to best utilize the Experience Platform developers and architects must understand the underlying components and how best operationalize these within their martech stacks.
+
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
 ![Experience Cloud Logo](aec-logo.svg)
 
-### Experience Cloud Essentials
+### Training Courses
 
-Go in depth to learn about how the Adobe Experience Cloud is architected
+Comprehensive courses that teach the "_why_" behind the "_how_" and prepare you for certification
 
-* [Learn More](/courses/experience-cloud-essentials/)
+* [Learn More](/courses/)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
 ![Experience Platform Logo](aep-logo.svg)
 
-### Experience Platform Essentials
+### Developer Toolkits
 
-Go in depth to learn about how the Adobe Experience Platform is architected
+Access to various developer tools actively used with Experience Platform
 
-* [Learn More](/courses/experience-platform-essentials/)
+* [Learn More](/tooling/)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
-![Experience Platform Foundation](images/aep-foundation.png)
+![Experience Platform Logo](aep-logo.svg)
 
-### Experience Platform Technical Foundation
+### Blueprints
 
-A comprehensive course that covers all aspects of the Experience Platform at a deep architectural level. Purpose built for data engineers, data architects, enterprise architects and general developers who want deep technical training and knowledge with hands on labs.
+Collection of various system and application blueprints to help guide architecture
 
-* [Learn More](/courses/experience-platform-technical-foundation/)  
+* [Learn More](/blueprints/)

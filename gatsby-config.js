@@ -18,12 +18,11 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'Blueprints',
-        path: '/blueprints/'
-      },
-      {
         title: 'Training Courses',
         menu: [{
+          title: 'Training Home',
+          path: '/courses/'
+        }, {
           title: 'Experience Cloud Essentials',
           path: '/courses/experience-cloud-essentials/'
         }, {
@@ -34,6 +33,14 @@ module.exports = {
         path: '/courses/experience-cloud-essentials/'         
        }]
       },
+      {
+        title: 'Blueprints',
+        path: '/blueprints/'
+      },      
+      {
+        title: 'Toolkits',
+        path: '/tooling/'
+      },      
       {
         title: 'API Reference',
         path: '/experience-platform-apis/'

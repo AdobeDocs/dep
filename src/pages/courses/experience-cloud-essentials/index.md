@@ -4,6 +4,7 @@ description: Training for the Enterprise Architect, Data Architect, Data Enginee
 contributors:
   - https://github.com/dbenge 
   - https://github.com/knee
+hideBreadcrumbNav: true
 ---
 
 <TitleBlock slots="heading, text" theme="light" />
