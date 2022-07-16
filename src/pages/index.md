@@ -39,11 +39,11 @@ Comprehensive courses that teach the "_why_" behind the "_how_" and prepare you 
 
 ![Experience Platform Logo](aep-logo.svg)
 
-### Developer Toolkits
+### Developer Toolkit
 
-Access to various developer tools actively used with Experience Platform
+Access to the Experience Platform Developer Toolkit to work directly with the Experience Platform APIs
 
-* [Learn More](/tooling/)
+* [Learn More](/devtoolkit/)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />

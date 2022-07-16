@@ -14,7 +14,7 @@ This course provides an architectural overview of the Adobe Experience Platform 
 
 <TextBlock slots="image, heading, text1, text2, text3" />
 
-![Experience Platform](images/aep-splash.jpg)
+![Experience Platform](../images/aep-splash.jpg)
 
 ### What You Will Learn
 

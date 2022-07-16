@@ -14,7 +14,7 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Experience Platform Home',
+        title: 'Adobe Experience Platform',
         path: '/'
       },
       {
@@ -36,18 +36,87 @@ module.exports = {
       {
         title: 'Blueprints',
         path: '/blueprints/'
-      },      
+      }, 
+      /*     
       {
-        title: 'Toolkits',
-        path: '/tooling/'
-      },      
+        title: 'Developer Toolkit',
+        path: '/devtoolkit/'
+      },
+      */
+      {
+        title: 'Guides',
+        path: '/guides/'
+      },    
       {
         title: 'API Reference',
         path: '/experience-platform-apis/'
       }
     ],
     subPages: [
-
+      {
+        title: 'Overview',
+        path: '/guides/'
+      },
+      /*
+      {
+        title: 'Developer App',
+        path: '/guides/developer-app/getting-started/',
+        pages: [
+          {
+            title: 'Getting Started',
+            path: '/guides/developer-app/getting-started/',
+          },
+          {
+            title: 'Install & Setup',
+            path: '/guides/developer-app/install-setup/',
+          },
+          {
+            title: 'Utilizing with Postman',
+            path: '/guides/developer-app/setup-app/',
+          }                          
+        ]
+      },
+      */
+      {
+        title: 'Developer Conosle',
+        path: '/guides/dev-console/getting-started',
+        pages: [
+          {
+            title: 'Getting Started',
+            path: '/guides/dev-console/getting-started'
+          },
+          {
+            title: 'Create Project',
+            path: '/guides/dev-console/create-project'
+          }
+        ]
+      },
+      {
+        title: 'Working with Postman',
+        path: '/guides/postman/getting-started',
+        pages: [
+          {
+            title: 'Getting Started',
+            path: '/guides/postman/getting-started'
+          },
+          {
+            title: 'Download and Install',
+            path: '/guides/postman/download-install'
+          },
+          {
+            title: 'Setup Environment',
+            path: '/guides/postman/setup-environment'
+          },
+          {
+            title: 'Authenticate',
+            path: '/guides/postman/authenticate'
+          },
+          {
+            title: 'Import Collections',
+            path: '/guides/postman/import-collections'
+          }
+        ]
+      }
     ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
