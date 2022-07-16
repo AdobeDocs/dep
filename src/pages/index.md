@@ -37,13 +37,13 @@ Comprehensive courses that teach the "_why_" behind the "_how_" and prepare you 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
-![Experience Platform Logo](aep-logo.svg)
+![Experience Platform Logo](images/aep-foundation.png)
 
-### Developer Toolkit
+### Developer Guides
 
-Access to the Experience Platform Developer Toolkit to work directly with the Experience Platform APIs
+Guides built for the developer that help you learn to leverage the APIs to build with the Experience Platform
 
-* [Learn More](/devtoolkit/)
+* [Learn More](/guides/)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
