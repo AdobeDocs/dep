@@ -15,7 +15,7 @@ This course provides an in-depth view into the how the Adobe Experience Cloud ha
 
 <TextBlock slots="image, heading, text1, text2, text3" />
 
-![Experience Cloud](images/aec-splash.png)
+![Experience Cloud](../images/aec-splash.png)
 
 ### What You Will Learn
 
