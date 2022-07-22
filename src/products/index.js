@@ -34,26 +34,55 @@ import CA from './icons/camraw_SVG_256.svg';
 */
 
 const clouds = [
-  'Architecture Overviews',
-  'Data collection & Preparation',
-  'B2B Activation & Marketing',
-  'Customer Journey Analytics',
-  'Customer Journeys',
-  'Data Analysis, Intelligence, & AI/ML',
-  'Web & Mobile Personalization'
+  'Architecture Overviews',                   // 0
+  'Data collection & Preparation',            // 1
+  'B2B Activation & Marketing',               // 2
+  'Customer Journey Analytics',               // 3
+  'Customer Journeys',                        // 4
+  'Data Analysis, Intelligence, & AI/ML',     // 5
+  'Web & Mobile Personalization'              // 6
 ];
 
 // Important: lastUpdated date should be unique to ensure stable sort across browsers
 const products = [
   {
     id: 0,
-    name: 'Customer Journey Optimizer',
+    name: 'Experience Cloud',
+    description: 'Illustrates how the Adobe Experience Cloud applications are connected and integrated wit eachother via the Experience Platform to achieve personalization at scale across data, content, and experience delivery.',
+    discover: '/blueprints/overview/experience-cloud.md',
+    docs: false,
+    lastUpdated: '2022',
+    cloud: clouds[0]
+  },
+  {
+    id: 0,
+    name: 'Experience Platform & Apps',
+    description: 'A view into how Adobe Experience Platform is built natively plug n\' play application services and integrates with other Experience Cloud applications.',
+    icon: '',
+    discover: '/blueprints/overview/platform-apps.md',
+    docs: false,
+    lastUpdated: '2022',
+    cloud: clouds[0]
+  },
+  {
+    id: 0,
+    name: 'Experience Platform - Data Flows',
+    description: 'Provides insight into the various architectural patterns for ingesting and exporting data with Adobe Experience Platform.',
+    icon: '',
+    discover: '/blueprints/overview/platform-data-flows.md',
+    docs: false,
+    lastUpdated: '2022',
+    cloud: clouds[0]
+  },
+  {
+    id: 0,
+    name: 'Audience Manager',
     description: 'Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.',
     icon: '',
     discover: '/creative-cloud',
     docs: false,
     lastUpdated: '2020',
-    cloud: clouds[4]
+    cloud: clouds[6]
   },
   {
     id: 0,
@@ -65,6 +94,36 @@ const products = [
     lastUpdated: '2020',
     cloud: clouds[6]
   },
+  {
+    id: 0,
+    name: 'Adobe Target',
+    description: 'Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.',
+    icon: '',
+    discover: '/creative-cloud',
+    docs: false,
+    lastUpdated: '2020',
+    cloud: clouds[6]
+  },
+  {
+    id: 0,
+    name: 'Adobe Target',
+    description: 'Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.',
+    icon: '',
+    discover: '/creative-cloud',
+    docs: false,
+    lastUpdated: '2020',
+    cloud: clouds[6]
+  },
+  {
+    id: 0,
+    name: 'Adobe Target',
+    description: 'Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.',
+    icon: '',
+    discover: '/creative-cloud',
+    docs: false,
+    lastUpdated: '2020',
+    cloud: clouds[6]
+  },            
 ];
 
 export {clouds, products};

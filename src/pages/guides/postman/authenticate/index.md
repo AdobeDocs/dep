@@ -48,7 +48,7 @@ A common error that is often encountered when making the call is due to a poorly
 
 ## Get the Identity Management Service Collection
 
-1. Navigate to the Experience Platform Postman Samples Github repository to get the Identity Management Service Postman collection located [here]((https://github.com/adobe/experience-platform-postman-samples/blob/master/apis/ims/Identity%20Management%20Service.postman_collection.json)). Copy the raw contents as show below
+1. Navigate to the Experience Platform Postman Samples Github repository to get the Identity Management Service Postman collection located [here](https://github.com/adobe/experience-platform-postman-samples/blob/master/apis/ims/Identity%20Management%20Service.postman_collection.json). Copy the raw contents as show below
 
     ![Copy Raw Text](../images/ims-copy-raw.png)
 

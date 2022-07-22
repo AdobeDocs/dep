@@ -10,8 +10,12 @@ hideBreadcrumbNav: true
 
 There are two ways you can get a Postman environment file:
 
-1. Download an `Environment Template` from our Github repository [here]((https://github.com/adobe/experience-platform-postman-samples/blob/master/Postman%20Environment%20Template.postman_environment.json))
+1. Download an `Environment Template` from our Github repository [here](https://github.com/adobe/experience-platform-postman-samples/blob/master/Postman%20Environment%20Template.postman_environment.json)
 2. Utilize the environment file you downloaded directly from your Developer Project [covered in this guide](../../dev-console/getting-started/index.md)
+
+<InlineAlert variant="info" slots="text" />
+
+If you do not have an environment file proceed with option #1 listed above.
 
 
 ## Copy the Environment Template

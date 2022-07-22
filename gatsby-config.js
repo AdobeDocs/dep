@@ -111,10 +111,12 @@ module.exports = {
             title: 'Authenticate',
             path: '/guides/postman/authenticate'
           },
+          /*
           {
             title: 'Import Collections',
             path: '/guides/postman/import-collections'
           }
+          */
         ]
       }
     ]
