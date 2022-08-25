@@ -14,7 +14,7 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Adobe Experience Platform',
+        title: 'Developer Enablement Program',
         path: '/'
       },
       {
