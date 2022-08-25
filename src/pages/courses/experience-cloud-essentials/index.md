@@ -1,5 +1,5 @@
 ---
-title: Adobe Developer Experience Program
+title: Adobe Developer Enablement Program
 description: Training for the Enterprise Architect, Data Architect, Data Engineer and general developer
 contributors:
   - https://github.com/dbenge 
