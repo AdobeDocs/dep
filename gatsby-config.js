@@ -21,24 +21,6 @@ module.exports = {
         title: 'Training Courses',
         path: '/courses/'        
       },
-      /*
-      {
-        title: 'Training Courses',
-        menu: [{
-          title: 'Training Home',
-          path: '/courses/'
-        }, {
-          title: 'Experience Cloud Essentials',
-          path: '/courses/experience-cloud-essentials/'
-        }, {
-         title: 'Experience Platform Essentials',
-         path: '/courses/experience-cloud-essentials/'
-       }, {
-        title: 'Experience Platform Technical Foundation',
-        path: '/courses/experience-cloud-essentials/'         
-       }]
-      },
-      */
       {
         title: 'Experience Blueprints',
         path: 'https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en'
