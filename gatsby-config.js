@@ -14,7 +14,7 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Developer Enablement Program',
+        title: 'Developer Enablement',
         path: '/'
       },
       {

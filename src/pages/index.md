@@ -1,5 +1,5 @@
 ---
-title: Adobe Developer Enablement Program
+title: Adobe Developer Enablement
 description: Training for the Enterprise Architect, Data Architect, Data Engineer and general developer
 contributors:
   - https://github.com/knee
