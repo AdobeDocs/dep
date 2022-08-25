@@ -43,6 +43,10 @@ module.exports = {
         title: 'Experience Blueprints',
         path: 'https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en'
       },
+      {
+        title: 'Developer Webhook',
+        path: '/webhook/'
+      },
       /*      
       {
         title: 'Developer Toolkit',
