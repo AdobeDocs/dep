@@ -34,8 +34,11 @@ Go in depth to learn about how the Adobe Experience Cloud is architected.
 
 Go in depth to learn about how the Adobe Experience Platform is architected
 
-* [Start Learning](/courses/experience-platform-essentials/)
+* [Coming Soon!](index.md)
 
+<!--
+* [Start Learning](/courses/experience-platform-essentials/)
+-->
 
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
@@ -45,4 +48,8 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 
 A comprehensive course that covers all aspects of the Experience Platform at a deep architectural level.
 
+* [Coming Soon!](index.md)
+
+<!--
 * [Start Learning](/courses/experience-platform-technical-foundation/)  
+-->

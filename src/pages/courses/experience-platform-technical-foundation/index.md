@@ -8,7 +8,7 @@ contributors:
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Experience Platform Technical Foundation Course
+### Coming Soon! Experience Platform Technical Foundation Course
 
 This course is a complete guide to navigating and understanding the inner workings of the Experience Platform with hands on learning.
 
@@ -27,8 +27,11 @@ In this course you will dive into the following areas of the Adobe Experience Pl
 - Know at an architectural level the core components of the Experience Platform and how they were designed to ultimately support real-time marketing experiences
 - Be able to think through the various architectural considerations when it comes to deployment and setup of the Experience Platform and the supporting applications / services around it
 
+
+<!--
 <AnnouncementBlock slots="heading, button" />
 
 ### Take the Course
 
 [Launch](/training/aec-essentials/index.html)
+-->

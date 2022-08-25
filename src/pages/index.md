@@ -50,8 +50,8 @@ Guides built for the developer that help you learn to leverage the APIs to build
 
 ![Experience Platform Logo](aep-logo.svg)
 
-### Blueprints
+### Experience Blueprints
 
 Collection of various system and application blueprints to help guide architecture
 
-* [Learn More](/blueprints/)
+* [Learn More](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en)

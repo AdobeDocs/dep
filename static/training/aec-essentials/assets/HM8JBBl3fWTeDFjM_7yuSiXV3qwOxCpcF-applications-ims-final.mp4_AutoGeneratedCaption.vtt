@@ -1,0 +1,907 @@
+﻿WEBVTT
+
+NOTE duration:"00:06:10"
+
+NOTE recognizability:0.839
+
+NOTE language:en-us
+
+NOTE Confidence: 0.795883367692308
+
+00:00:00.000 --> 00:00:02.352
+Let's take a look at an IMS org
+
+NOTE Confidence: 0.795883367692308
+
+00:00:02.352 --> 00:00:04.878
+in the context of applications.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:04.880 --> 00:00:06.005
+I think it's helpful to
+
+NOTE Confidence: 0.795883367692308
+
+00:00:06.005 --> 00:00:06.905
+understand at this point.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:06.910 --> 00:00:09.070
+Is every application with the
+
+NOTE Confidence: 0.795883367692308
+
+00:00:09.070 --> 00:00:10.860
+Adobe Experience Cloud is
+
+NOTE Confidence: 0.795883367692308
+
+00:00:10.860 --> 00:00:13.160
+either a SaaS based application,
+
+NOTE Confidence: 0.795883367692308
+
+00:00:13.160 --> 00:00:14.885
+meaning it's a multi tenant
+
+NOTE Confidence: 0.795883367692308
+
+00:00:14.885 --> 00:00:16.218
+infrastructure behind it or
+
+NOTE Confidence: 0.795883367692308
+
+00:00:16.218 --> 00:00:18.006
+it's a non SAS based application
+
+NOTE Confidence: 0.795883367692308
+
+00:00:18.006 --> 00:00:20.048
+which likely means it's a single
+
+NOTE Confidence: 0.795883367692308
+
+00:00:20.048 --> 00:00:21.500
+tenant infrastructure behind it.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:21.500 --> 00:00:23.275
+And not all applications can
+
+NOTE Confidence: 0.795883367692308
+
+00:00:23.275 --> 00:00:25.690
+run within an IMS org meeting.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:25.690 --> 00:00:27.658
+Not all applications get their user
+
+NOTE Confidence: 0.795883367692308
+
+00:00:27.658 --> 00:00:29.630
+access rights and permissions from an IMS,
+
+NOTE Confidence: 0.795883367692308
+
+00:00:29.630 --> 00:00:32.297
+or they may be actually self policed
+
+NOTE Confidence: 0.795883367692308
+
+00:00:32.297 --> 00:00:33.960
+within the application itself.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:33.960 --> 00:00:35.640
+So what applications are native
+
+NOTE Confidence: 0.795883367692308
+
+00:00:35.640 --> 00:00:38.584
+to an IMS or from a provisioning
+
+NOTE Confidence: 0.795883367692308
+
+00:00:38.584 --> 00:00:40.980
+perspective as well as user access
+
+NOTE Confidence: 0.795883367692308
+
+00:00:40.980 --> 00:00:43.759
+control is managed at the store level,
+
+NOTE Confidence: 0.795883367692308
+
+00:00:43.760 --> 00:00:44.590
+so analytics,
+
+NOTE Confidence: 0.795883367692308
+
+00:00:44.590 --> 00:00:46.665
+audience manager and target are
+
+NOTE Confidence: 0.795883367692308
+
+00:00:46.665 --> 00:00:49.057
+kind of the first three that
+
+NOTE Confidence: 0.795883367692308
+
+00:00:49.057 --> 00:00:51.556
+you see show up here where these
+
+NOTE Confidence: 0.795883367692308
+
+00:00:51.630 --> 00:00:53.670
+applications are sass based.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:53.670 --> 00:00:55.632
+In user access control to them
+
+NOTE Confidence: 0.795883367692308
+
+00:00:55.632 --> 00:00:57.968
+is managed at the IMS org level.
+
+NOTE Confidence: 0.795883367692308
+
+00:00:57.970 --> 00:00:59.860
+There are also multi tenant so
+
+NOTE Confidence: 0.795883367692308
+
+00:00:59.860 --> 00:01:02.402
+there can only ever be 1 analytics
+
+NOTE Confidence: 0.795883367692308
+
+00:01:02.402 --> 00:01:03.210
+license deployed.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:03.210 --> 00:01:03.734
+1 Outings,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:03.734 --> 00:01:05.306
+manager license or one target license,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:05.310 --> 00:01:07.780
+deployed perms org and there's
+
+NOTE Confidence: 0.795883367692308
+
+00:01:07.780 --> 00:01:10.510
+ways to section off within those
+
+NOTE Confidence: 0.795883367692308
+
+00:01:10.510 --> 00:01:12.250
+individual solutions and analytics.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:12.250 --> 00:01:13.912
+We call them report suites and
+
+NOTE Confidence: 0.795883367692308
+
+00:01:13.912 --> 00:01:15.020
+audience metrics data sources
+
+NOTE Confidence: 0.795883367692308
+
+00:01:15.070 --> 00:01:16.550
+and then target it's workspaces.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:16.550 --> 00:01:18.790
+But a way to give different teams
+
+NOTE Confidence: 0.795883367692308
+
+00:01:18.790 --> 00:01:21.774
+ways to play with in their own space
+
+NOTE Confidence: 0.795883367692308
+
+00:01:21.774 --> 00:01:24.009
+without touching another team's data.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:24.010 --> 00:01:26.068
+This looks a little different when
+
+NOTE Confidence: 0.795883367692308
+
+00:01:26.068 --> 00:01:29.500
+you talk about some of the other
+
+NOTE Confidence: 0.795883367692308
+
+00:01:29.500 --> 00:01:31.448
+applications that we have sitting
+
+NOTE Confidence: 0.795883367692308
+
+00:01:31.448 --> 00:01:33.720
+outside here on the left experience platform.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:33.720 --> 00:01:34.010
+Actually,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:34.010 --> 00:01:35.750
+before I figured out it falls
+
+NOTE Confidence: 0.795883367692308
+
+00:01:35.750 --> 00:01:37.197
+into the same camp experience,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:37.200 --> 00:01:39.174
+platform and all of its app services.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:39.180 --> 00:01:40.968
+It kind of set on top.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:40.970 --> 00:01:41.314
+Also,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:41.314 --> 00:01:43.378
+can only have one license provisioned
+
+NOTE Confidence: 0.795883367692308
+
+00:01:43.378 --> 00:01:46.043
+by an IMS org and it also provides
+
+NOTE Confidence: 0.795883367692308
+
+00:01:46.043 --> 00:01:48.080
+its own way of creating separation
+
+NOTE Confidence: 0.795883367692308
+
+00:01:48.080 --> 00:01:50.534
+of data for between teams and
+
+NOTE Confidence: 0.795883367692308
+
+00:01:50.534 --> 00:01:52.058
+business units through something
+
+NOTE Confidence: 0.795883367692308
+
+00:01:52.058 --> 00:01:53.210
+that we call sandboxes,
+
+NOTE Confidence: 0.795883367692308
+
+00:01:53.210 --> 00:01:56.754
+which we learn about in a different module.
+
+NOTE Confidence: 0.795883367692308
+
+00:01:56.760 --> 00:01:59.460
+So what do we kind of do left with all
+
+NOTE Confidence: 0.795883367692308
+
+00:01:59.532 --> 00:02:02.017
+these other applications over here?
+
+NOTE Confidence: 0.795883367692308
+
+00:02:02.020 --> 00:02:03.260
+This is kind of interesting,
+
+NOTE Confidence: 0.795883367692308
+
+00:02:03.260 --> 00:02:04.376
+so when we look at Marketo,
+
+NOTE Confidence: 0.795883367692308
+
+00:02:04.380 --> 00:02:06.156
+Marketo kind of lives here on the edge.
+
+NOTE Confidence: 0.795883367692308
+
+00:02:06.160 --> 00:02:08.248
+And what I mean by this is user
+
+NOTE Confidence: 0.795883367692308
+
+00:02:08.248 --> 00:02:09.998
+access control is actually managed
+
+NOTE Confidence: 0.795883367692308
+
+00:02:09.998 --> 00:02:11.948
+within the Marketo instance itself.
+
+NOTE Confidence: 0.795883367692308
+
+00:02:11.950 --> 00:02:13.782
+But it has the ability to be connected
+
+NOTE Confidence: 0.795883367692308
+
+00:02:13.782 --> 00:02:15.828
+to an IMS work and so IT company
+
+NOTE Confidence: 0.795883367692308
+
+00:02:15.828 --> 00:02:17.492
+can actually have many licenses are
+
+NOTE Confidence: 0.795883367692308
+
+00:02:17.492 --> 00:02:19.244
+from our keto and therefore connect
+
+NOTE Confidence: 0.795883367692308
+
+00:02:19.244 --> 00:02:21.290
+many of them too and optionally
+
+NOTE Confidence: 0.795883367692308
+
+00:02:21.290 --> 00:02:25.070
+into the IMS work campaign.
+
+NOTE Confidence: 0.795883367692308
+
+00:02:25.070 --> 00:02:26.810
+V7 actually looks the same way,
+
+NOTE Confidence: 0.795883367692308
+
+00:02:26.810 --> 00:02:30.138
+so you can have many campaign instances here.
+
+NOTE Confidence: 0.795883367692308
+
+00:02:30.140 --> 00:02:31.985
+That start to show up and you start to
+
+NOTE Confidence: 0.795883367692308
+
+00:02:31.985 --> 00:02:33.706
+see the it's a little different though
+
+NOTE Confidence: 0.795883367692308
+
+00:02:33.706 --> 00:02:35.533
+when you get to campaign standard
+
+NOTE Confidence: 0.795883367692308
+
+00:02:35.533 --> 00:02:37.129
+campaign standard actually was.
+
+NOTE Confidence: 0.87164254
+
+00:02:39.270 --> 00:02:41.278
+A tool that we built that is SAS
+
+NOTE Confidence: 0.87164254
+
+00:02:41.278 --> 00:02:43.206
+based but it's single tenant so
+
+NOTE Confidence: 0.87164254
+
+00:02:43.206 --> 00:02:45.252
+there can be many campaign standard
+
+NOTE Confidence: 0.87164254
+
+00:02:45.312 --> 00:02:47.310
+instances that a customer may be
+
+NOTE Confidence: 0.87164254
+
+00:02:47.310 --> 00:02:50.180
+running and operating with M&amp;amp;MS org.
+
+NOTE Confidence: 0.87164254
+
+00:02:50.180 --> 00:02:52.100
+But they are already provisioned and
+
+NOTE Confidence: 0.87164254
+
+00:02:52.100 --> 00:02:54.217
+all the user access controls actually
+
+NOTE Confidence: 0.87164254
+
+00:02:54.217 --> 00:02:56.966
+managed within IMS work not within
+
+NOTE Confidence: 0.87164254
+
+00:02:56.966 --> 00:02:59.338
+the singular application itself.
+
+NOTE Confidence: 0.87164254
+
+00:02:59.340 --> 00:03:01.020
+And then you kind of have
+
+NOTE Confidence: 0.87164254
+
+00:03:01.020 --> 00:03:02.140
+experience manager and magenta.
+
+NOTE Confidence: 0.87164254
+
+00:03:02.140 --> 00:03:03.950
+The comments engine I'm sitting
+
+NOTE Confidence: 0.87164254
+
+00:03:03.950 --> 00:03:06.811
+off to the side and these kind of
+
+NOTE Confidence: 0.87164254
+
+00:03:06.811 --> 00:03:09.093
+fall into a hybrid camp as well.
+
+NOTE Confidence: 0.87164254
+
+00:03:09.100 --> 00:03:10.576
+Depending on which version of it.
+
+NOTE Confidence: 0.87164254
+
+00:03:10.580 --> 00:03:11.652
+So experience manager actually
+
+NOTE Confidence: 0.87164254
+
+00:03:11.652 --> 00:03:12.992
+comes in three versions today.
+
+NOTE Confidence: 0.87164254
+
+00:03:13.000 --> 00:03:15.940
+We have experience manager kind of old.
+
+NOTE Confidence: 0.87164254
+
+00:03:15.940 --> 00:03:18.016
+This is the on Prem solution,
+
+NOTE Confidence: 0.87164254
+
+00:03:18.020 --> 00:03:19.804
+not IMS or compatible.
+
+NOTE Confidence: 0.87164254
+
+00:03:19.804 --> 00:03:23.220
+Licensed but not connected to an IMS org.
+
+NOTE Confidence: 0.87164254
+
+00:03:23.220 --> 00:03:24.972
+You've experienced manager,
+
+NOTE Confidence: 0.87164254
+
+00:03:24.972 --> 00:03:27.568
+cloud services or managed services scuse
+
+NOTE Confidence: 0.87164254
+
+00:03:27.568 --> 00:03:30.508
+me which can be connected to an IMS org.
+
+NOTE Confidence: 0.87164254
+
+00:03:30.510 --> 00:03:35.086
+And then you have experience Manager cloud
+
+NOTE Confidence: 0.87164254
+
+00:03:35.086 --> 00:03:37.066
+service different than managed service.
+
+NOTE Confidence: 0.87164254
+
+00:03:37.070 --> 00:03:39.060
+So experience manager managed services
+
+NOTE Confidence: 0.87164254
+
+00:03:39.060 --> 00:03:41.050
+about us hosting the infrastructure
+
+NOTE Confidence: 0.87164254
+
+00:03:41.111 --> 00:03:42.767
+for you or cloud services truly
+
+NOTE Confidence: 0.87164254
+
+00:03:42.767 --> 00:03:44.832
+making it scalable based off of
+
+NOTE Confidence: 0.87164254
+
+00:03:44.832 --> 00:03:47.509
+the cloud architecture and we host.
+
+NOTE Confidence: 0.87164254
+
+00:03:47.509 --> 00:03:51.100
+And that is always I'm IMS specific.
+
+NOTE Confidence: 0.87164254
+
+00:03:51.100 --> 00:03:52.492
+From that perspective,
+
+NOTE Confidence: 0.87164254
+
+00:03:52.492 --> 00:03:54.812
+the Magento Commerce engine currently
+
+NOTE Confidence: 0.87164254
+
+00:03:54.812 --> 00:03:57.119
+lives more along the experience
+
+NOTE Confidence: 0.87164254
+
+00:03:57.120 --> 00:03:59.900
+manager on Prem solution standpoint,
+
+NOTE Confidence: 0.87164254
+
+00:03:59.900 --> 00:04:01.388
+but there's a lot of active work right
+
+NOTE Confidence: 0.87164254
+
+00:04:01.388 --> 00:04:03.056
+now to bring this in and to make it
+
+NOTE Confidence: 0.87164254
+
+00:04:03.056 --> 00:04:04.657
+live more here on the edge we have the
+
+NOTE Confidence: 0.87164254
+
+00:04:04.657 --> 00:04:06.256
+option to hook it up and collect it
+
+NOTE Confidence: 0.87164254
+
+00:04:06.256 --> 00:04:08.414
+and you'll see a lot of this coming
+
+NOTE Confidence: 0.87164254
+
+00:04:08.414 --> 00:04:09.866
+through enhanced data collection
+
+NOTE Confidence: 0.87164254
+
+00:04:09.866 --> 00:04:12.440
+plugins where we can actually tag users.
+
+NOTE Confidence: 0.87164254
+
+00:04:12.440 --> 00:04:15.624
+If you remember going back to this screen
+
+NOTE Confidence: 0.87164254
+
+00:04:15.624 --> 00:04:18.100
+with that and being able to bring that
+
+NOTE Confidence: 0.87164254
+
+00:04:18.100 --> 00:04:20.780
+forward so that functioning can be captured.
+
+NOTE Confidence: 0.87164254
+
+00:04:20.780 --> 00:04:23.764
+A collection time off of these solutions.
+
+NOTE Confidence: 0.87164254
+
+00:04:23.764 --> 00:04:26.170
+And it actually brings up a
+
+NOTE Confidence: 0.87164254
+
+00:04:26.255 --> 00:04:28.460
+really good point with that.
+
+NOTE Confidence: 0.87164254
+
+00:04:28.460 --> 00:04:29.068
+We're easy.
+
+NOTE Confidence: 0.87164254
+
+00:04:29.068 --> 00:04:31.826
+It plays on these solutions as it starts to
+
+NOTE Confidence: 0.87164254
+
+00:04:31.826 --> 00:04:33.953
+really exist when you look at analytics.
+
+NOTE Confidence: 0.87164254
+
+00:04:33.953 --> 00:04:36.568
+When you look at Target.
+
+NOTE Confidence: 0.87164254
+
+00:04:36.570 --> 00:04:37.890
+When you look at audience manager,
+
+NOTE Confidence: 0.87164254
+
+00:04:37.890 --> 00:04:38.800
+this is really where the
+
+NOTE Confidence: 0.87164254
+
+00:04:38.800 --> 00:04:39.860
+easy ideas starts to show up.
+
+NOTE Confidence: 0.87164254
+
+00:04:39.860 --> 00:04:41.813
+In a lot of our solutions because
+
+NOTE Confidence: 0.87164254
+
+00:04:41.813 --> 00:04:43.749
+this is where your digital first
+
+NOTE Confidence: 0.87164254
+
+00:04:43.749 --> 00:04:45.344
+party data that you're collecting
+
+NOTE Confidence: 0.87164254
+
+00:04:45.344 --> 00:04:47.234
+on that customer coming to your
+
+NOTE Confidence: 0.87164254
+
+00:04:47.234 --> 00:04:48.350
+website starts to happen.
+
+NOTE Confidence: 0.87164254
+
+00:04:48.350 --> 00:04:50.436
+And in the magenta and the experience
+
+NOTE Confidence: 0.87164254
+
+00:04:50.436 --> 00:04:51.970
+manager stack usually see this
+
+NOTE Confidence: 0.87164254
+
+00:04:51.970 --> 00:04:53.472
+deployed through our SDK's or
+
+NOTE Confidence: 0.87164254
+
+00:04:53.472 --> 00:04:55.338
+will start to collect this data.
+
+NOTE Confidence: 0.87164254
+
+00:04:55.340 --> 00:05:00.565
+Campaign Marketo can really don't
+
+NOTE Confidence: 0.87164254
+
+00:05:00.565 --> 00:05:01.890
+have easy ideas 'cause they're
+
+NOTE Confidence: 0.87164254
+
+00:05:01.890 --> 00:05:03.879
+based off of an unknown customer.
+
+NOTE Confidence: 0.87164254
+
+00:05:03.880 --> 00:05:06.520
+So you typically have a permit
+
+NOTE Confidence: 0.87164254
+
+00:05:06.520 --> 00:05:07.840
+in these spaces.
+
+NOTE Confidence: 0.87164254
+
+00:05:07.840 --> 00:05:10.160
+Which is what's most common,
+
+NOTE Confidence: 0.87164254
+
+00:05:10.160 --> 00:05:11.777
+but they also can get an easy
+
+NOTE Confidence: 0.87164254
+
+00:05:11.777 --> 00:05:13.918
+ID if a customer comes online,
+
+NOTE Confidence: 0.87164254
+
+00:05:13.920 --> 00:05:15.995
+so something that you'll typically
+
+NOTE Confidence: 0.87164254
+
+00:05:15.995 --> 00:05:17.157
+see in these solutions,
+
+NOTE Confidence: 0.87164254
+
+00:05:17.157 --> 00:05:18.900
+and I'm kind of notating it here.
+
+NOTE Confidence: 0.87164254
+
+00:05:18.900 --> 00:05:20.644
+You'll see us here,
+
+NOTE Confidence: 0.87164254
+
+00:05:20.644 --> 00:05:23.660
+and there may be an easy ID.
+
+NOTE Confidence: 0.87164254
+
+00:05:23.660 --> 00:05:25.490
+Optionally.
+
+NOTE Confidence: 0.87164254
+
+00:05:25.490 --> 00:05:29.546
+If this customer ever activates online,
+
+NOTE Confidence: 0.87164254
+
+00:05:29.550 --> 00:05:31.069
+the most common way that you'll see
+
+NOTE Confidence: 0.87164254
+
+00:05:31.069 --> 00:05:32.549
+these things kind of show up here is,
+
+NOTE Confidence: 0.87164254
+
+00:05:32.550 --> 00:05:33.506
+let's say,
+
+NOTE Confidence: 0.87164254
+
+00:05:33.506 --> 00:05:35.418
+the customer does something
+
+NOTE Confidence: 0.87164254
+
+00:05:35.420 --> 00:05:37.586
+where you've sent a new email.
+
+NOTE Confidence: 0.87164254
+
+00:05:37.590 --> 00:05:39.090
+Or a push message and then
+
+NOTE Confidence: 0.87164254
+
+00:05:39.090 --> 00:05:40.090
+they open or click
+
+NOTE Confidence: 0.87598387
+
+00:05:40.155 --> 00:05:41.990
+that message. That's why you would start
+
+NOTE Confidence: 0.87598387
+
+00:05:41.990 --> 00:05:43.887
+to see them getting a nice ideas because
+
+NOTE Confidence: 0.87598387
+
+00:05:43.887 --> 00:05:46.240
+we're able to at that time tie them
+
+NOTE Confidence: 0.87598387
+
+00:05:46.240 --> 00:05:48.230
+back to something that they've done.
+
+NOTE Confidence: 0.87598387
+
+00:05:48.230 --> 00:05:50.742
+And so this is just a friendly reminder
+
+NOTE Confidence: 0.87598387
+
+00:05:50.742 --> 00:05:53.547
+of how these solutions kind of work
+
+NOTE Confidence: 0.87598387
+
+00:05:53.547 --> 00:05:56.328
+together within IMS work and how you
+
+NOTE Confidence: 0.87598387
+
+00:05:56.328 --> 00:05:58.340
+can think about architecting things,
+
+NOTE Confidence: 0.87598387
+
+00:05:58.340 --> 00:06:00.830
+especially when a customer has a
+
+NOTE Confidence: 0.87598387
+
+00:06:00.830 --> 00:06:02.652
+variety of different solutions.
+
+NOTE Confidence: 0.87598387
+
+00:06:02.652 --> 00:06:05.388
+Why some of them may be plentiful within
+
+NOTE Confidence: 0.87598387
+
+00:06:05.388 --> 00:06:07.580
+IMS organ? Why you may only see one.
+
+NOTE Confidence: 0.87598387
+
+00:06:07.580 --> 00:06:10.000
+For other solutions out there. Thanks.

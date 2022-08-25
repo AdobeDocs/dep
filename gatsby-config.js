@@ -19,6 +19,11 @@ module.exports = {
       },
       {
         title: 'Training Courses',
+        path: '/courses/'        
+      },
+      /*
+      {
+        title: 'Training Courses',
         menu: [{
           title: 'Training Home',
           path: '/courses/'
@@ -33,11 +38,12 @@ module.exports = {
         path: '/courses/experience-cloud-essentials/'         
        }]
       },
+      */
       {
-        title: 'Blueprints',
-        path: '/blueprints/'
-      }, 
-      /*     
+        title: 'Experience Blueprints',
+        path: 'https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en'
+      },
+      /*      
       {
         title: 'Developer Toolkit',
         path: '/devtoolkit/'

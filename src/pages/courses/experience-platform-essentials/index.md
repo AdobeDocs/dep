@@ -8,7 +8,7 @@ contributors:
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Experience Platform Essentials Course
+### Coming Soon! Experience Platform Essentials Course
 
 This course provides an architectural overview of the Adobe Experience Platform and how it is built to both centralize the marketing operations and deliver real-time personalization at scale 
 
@@ -26,8 +26,10 @@ In this course you will dive into the following areas of the Adobe Experience Pl
 - Know at an architectural level the core components of the Experience Platform and how they were designed to ultimately support real-time marketing experiences
 - Be able to think through the various architectural considerations when it comes to deployment and setup of the Experience Platform and the supporting applications / services around it
 
+<!--
 <AnnouncementBlock slots="heading, button" />
 
 ### Take the Course
 
 [Launch](/training/aec-essentials/index.html)
+-->
