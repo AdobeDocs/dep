@@ -20,7 +20,7 @@ Educating and enabling developers, architects, engineers and tech savvy folks on
 
 ### Start Learning
 
-The Adobe Experience Platform powers a wide breadth of the Experience Cloud applications by offering a centralized brain for data, customer profiles and segmentation. In order to understand how to best utilize the Experience Platform developers and architects must understand the underlying components and how best operationalize these within their martech stacks.
+The Adobe Experience Cloud powers a wide breadth of Adobe applications that assist in the creation, delivery and personalization of content.  Underneath many of these applications sits the central marketing brain, the Adobe Experience Platform. The Experience Platform is a centralized marketing brain allowing for various teams to analyze data, create unified customer profile and define segments and audiences. But before you start building you must first understand the underlying components in the Experience Platform and how best to operationalize these within your own martech stacks.
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
