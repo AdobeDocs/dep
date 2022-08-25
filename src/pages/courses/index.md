@@ -1,7 +1,6 @@
 ---
-title: Adobe Developer Experience Program
-description: Training for the Enterprise Architect, Data Architect, Data Engineer and general developer
-contributors:
+title: Adobe Developer Enablement Courses
+description: Start your learning adventure for the Experience Platform
   - https://github.com/knee
 hideBreadcrumbNav: true
 ---

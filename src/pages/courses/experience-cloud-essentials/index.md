@@ -1,8 +1,7 @@
 ---
-title: Adobe Developer Enablement Program
-description: Training for the Enterprise Architect, Data Architect, Data Engineer and general developer
+title: Experience Cloud Essentials Traing Course
+description: In-depth view into the how the Adobe Experience Cloud has been architected to help companies manage and deliver best in class marketing experience's through Adobe's digital marketing suite.
 contributors:
-  - https://github.com/dbenge 
   - https://github.com/knee
 hideBreadcrumbNav: true
 ---
