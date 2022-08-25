@@ -1,0 +1,1037 @@
+﻿WEBVTT
+
+NOTE duration:"00:06:48"
+
+NOTE recognizability:0.859
+
+NOTE language:en-us
+
+NOTE Confidence: 0.897580021875
+
+00:00:00.000 --> 00:00:02.268
+In this video I'll cover the various
+
+NOTE Confidence: 0.897580021875
+
+00:00:02.268 --> 00:00:04.798
+identity types that you can use for user
+
+NOTE Confidence: 0.897580021875
+
+00:00:04.798 --> 00:00:07.620
+management within the experience cloud.
+
+NOTE Confidence: 0.897580021875
+
+00:00:07.620 --> 00:00:09.175
+There are four types of
+
+NOTE Confidence: 0.897580021875
+
+00:00:09.175 --> 00:00:11.160
+identities that can be used today.
+
+NOTE Confidence: 0.897580021875
+
+00:00:11.160 --> 00:00:12.496
+There's a Federated ID.
+
+NOTE Confidence: 0.897580021875
+
+00:00:12.496 --> 00:00:14.166
+This is the most strict
+
+NOTE Confidence: 0.897580021875
+
+00:00:14.166 --> 00:00:15.876
+identity type that can be used,
+
+NOTE Confidence: 0.897580021875
+
+00:00:15.880 --> 00:00:18.610
+followed by an enterprise ID.
+
+NOTE Confidence: 0.897580021875
+
+00:00:18.610 --> 00:00:22.516
+A business ID and an Adobe ID.
+
+NOTE Confidence: 0.897580021875
+
+00:00:22.520 --> 00:00:25.136
+When we look at different ID types really,
+
+NOTE Confidence: 0.897580021875
+
+00:00:25.140 --> 00:00:27.924
+what an identity allows an organization
+
+NOTE Confidence: 0.897580021875
+
+00:00:27.924 --> 00:00:32.040
+to do is control access to the license
+
+NOTE Confidence: 0.897580021875
+
+00:00:32.040 --> 00:00:36.629
+applications that live within that IMS work.
+
+NOTE Confidence: 0.897580021875
+
+00:00:36.630 --> 00:00:38.526
+So when we look at the Federated ID,
+
+NOTE Confidence: 0.897580021875
+
+00:00:38.530 --> 00:00:40.863
+this is one of the most strict ways
+
+NOTE Confidence: 0.897580021875
+
+00:00:40.863 --> 00:00:42.489
+that you can enforce that control,
+
+NOTE Confidence: 0.897580021875
+
+00:00:42.490 --> 00:00:44.650
+because it's always organization owned,
+
+NOTE Confidence: 0.897580021875
+
+00:00:44.650 --> 00:00:46.070
+controlled and what we mean
+
+NOTE Confidence: 0.897580021875
+
+00:00:46.070 --> 00:00:47.490
+by that is the authentication.
+
+NOTE Confidence: 0.897580021875
+
+00:00:47.490 --> 00:00:50.015
+Worship is typically done through
+
+NOTE Confidence: 0.897580021875
+
+00:00:50.015 --> 00:00:52.090
+SAML integration and acclaimed
+
+NOTE Confidence: 0.897580021875
+
+00:00:52.090 --> 00:00:54.210
+domain by the organization,
+
+NOTE Confidence: 0.897580021875
+
+00:00:54.210 --> 00:00:55.930
+and so the only people
+
+NOTE Confidence: 0.897580021875
+
+00:00:55.930 --> 00:00:57.650
+who can ever get added.
+
+NOTE Confidence: 0.897580021875
+
+00:00:57.650 --> 00:00:59.230
+To the organization have to
+
+NOTE Confidence: 0.897580021875
+
+00:00:59.230 --> 00:01:01.190
+be part of that domain name.
+
+NOTE Confidence: 0.897580021875
+
+00:01:01.190 --> 00:01:02.745
+This also means the organization
+
+NOTE Confidence: 0.897580021875
+
+00:01:02.745 --> 00:01:04.899
+owns and controls all of the assets
+
+NOTE Confidence: 0.897580021875
+
+00:01:04.899 --> 00:01:06.531
+that may be created for coming
+
+NOTE Confidence: 0.897580021875
+
+00:01:06.531 --> 00:01:08.228
+from the Creative cloud space
+
+NOTE Confidence: 0.897580021875
+
+00:01:08.230 --> 00:01:09.970
+and you get all the robustness.
+
+NOTE Confidence: 0.897580021875
+
+00:01:09.970 --> 00:01:11.776
+Typically that you would see around a
+
+NOTE Confidence: 0.897580021875
+
+00:01:11.776 --> 00:01:13.399
+security and monitoring and password reset.
+
+NOTE Confidence: 0.897580021875
+
+00:01:13.400 --> 00:01:17.858
+That's again governed by your organization.
+
+NOTE Confidence: 0.897580021875
+
+00:01:17.860 --> 00:01:19.396
+When we get to Creative Cloud,
+
+NOTE Confidence: 0.897580021875
+
+00:01:19.400 --> 00:01:20.936
+you'll see a little difference here
+
+NOTE Confidence: 0.897580021875
+
+00:01:20.936 --> 00:01:21.960
+between creative and document.
+
+NOTE Confidence: 0.897580021875
+
+00:01:21.960 --> 00:01:23.340
+Depending on what we're set up.
+
+NOTE Confidence: 0.897580021875
+
+00:01:23.340 --> 00:01:25.228
+So if we're looking at this more from
+
+NOTE Confidence: 0.897580021875
+
+00:01:25.228 --> 00:01:26.729
+an enterprise licensing standpoint,
+
+NOTE Confidence: 0.897580021875
+
+00:01:26.730 --> 00:01:28.046
+Federated ID's are supported.
+
+NOTE Confidence: 0.897580021875
+
+00:01:28.046 --> 00:01:30.020
+If you're looking at this more
+
+NOTE Confidence: 0.897580021875
+
+00:01:30.078 --> 00:01:31.338
+from a team standpoint,
+
+NOTE Confidence: 0.897580021875
+
+00:01:31.340 --> 00:01:32.500
+so I'm buying this just
+
+NOTE Confidence: 0.897580021875
+
+00:01:32.500 --> 00:01:34.100
+for a small team of people,
+
+NOTE Confidence: 0.897580021875
+
+00:01:34.100 --> 00:01:35.675
+then we wouldn't support the
+
+NOTE Confidence: 0.897580021875
+
+00:01:35.675 --> 00:01:38.342
+Federated ID type and then always
+
+NOTE Confidence: 0.897580021875
+
+00:01:38.342 --> 00:01:40.638
+supported across experience cloud.
+
+NOTE Confidence: 0.897580021875
+
+00:01:40.640 --> 00:01:42.308
+The next type here is what's
+
+NOTE Confidence: 0.897580021875
+
+00:01:42.308 --> 00:01:43.420
+called an enterprise ID,
+
+NOTE Confidence: 0.897580021875
+
+00:01:43.420 --> 00:01:45.640
+so it's still organizational and control.
+
+NOTE Confidence: 0.897580021875
+
+00:01:45.640 --> 00:01:47.621
+But the big thing that you'll see
+
+NOTE Confidence: 0.897580021875
+
+00:01:47.621 --> 00:01:49.685
+here is that the authentication
+
+NOTE Confidence: 0.897580021875
+
+00:01:49.685 --> 00:01:52.095
+ownership is really managed and shifted
+
+NOTE Confidence: 0.897580021875
+
+00:01:52.095 --> 00:01:54.248
+here by Adobe on a claim domain,
+
+NOTE Confidence: 0.897580021875
+
+00:01:54.248 --> 00:01:55.820
+so we're in a Federated ID.
+
+NOTE Confidence: 0.897580021875
+
+00:01:55.820 --> 00:01:57.536
+The authentication is actually
+
+NOTE Confidence: 0.897580021875
+
+00:01:57.536 --> 00:01:59.681
+owned by the organization that's
+
+NOTE Confidence: 0.897580021875
+
+00:01:59.681 --> 00:02:02.124
+setting up their users, in this case,
+
+NOTE Confidence: 0.897580021875
+
+00:02:02.124 --> 00:02:04.212
+at the Enterprise ID Adobe will
+
+NOTE Confidence: 0.897580021875
+
+00:02:04.212 --> 00:02:07.240
+own and manage the authentication.
+
+NOTE Confidence: 0.897580021875
+
+00:02:07.240 --> 00:02:10.102
+And therefore you start to see things
+
+NOTE Confidence: 0.897580021875
+
+00:02:10.102 --> 00:02:11.899
+change as we kind of cut on the road.
+
+NOTE Confidence: 0.897580021875
+
+00:02:11.900 --> 00:02:12.100
+Here.
+
+NOTE Confidence: 0.897580021875
+
+00:02:12.100 --> 00:02:13.500
+When you look at from a security
+
+NOTE Confidence: 0.897580021875
+
+00:02:13.500 --> 00:02:14.360
+and monitoring standpoint,
+
+NOTE Confidence: 0.897580021875
+
+00:02:14.360 --> 00:02:16.040
+Adobe will provide its security
+
+NOTE Confidence: 0.897580021875
+
+00:02:16.040 --> 00:02:17.720
+and monitoring such as content,
+
+NOTE Confidence: 0.897580021875
+
+00:02:17.720 --> 00:02:19.935
+log sharing restrictions and password
+
+NOTE Confidence: 0.897580021875
+
+00:02:19.935 --> 00:02:22.340
+policies that will enforce where you
+
+NOTE Confidence: 0.897580021875
+
+00:02:22.340 --> 00:02:24.194
+have a little bit different aspect
+
+NOTE Confidence: 0.897580021875
+
+00:02:24.194 --> 00:02:26.660
+here of when you go with the Federated ID.
+
+NOTE Confidence: 0.897580021875
+
+00:02:26.660 --> 00:02:28.360
+There's more logging because the
+
+NOTE Confidence: 0.897580021875
+
+00:02:28.360 --> 00:02:30.060
+companies ability to implement the
+
+NOTE Confidence: 0.897580021875
+
+00:02:30.117 --> 00:02:32.098
+logging that they want using that XAML,
+
+NOTE Confidence: 0.897580021875
+
+00:02:32.100 --> 00:02:33.310
+deep integration,
+
+NOTE Confidence: 0.897580021875
+
+00:02:33.310 --> 00:02:35.730
+functioning behind the scenes.
+
+NOTE Confidence: 0.897580021875
+
+00:02:35.730 --> 00:02:37.842
+Password control is managed through the
+
+NOTE Confidence: 0.897580021875
+
+00:02:37.842 --> 00:02:40.310
+Adobe tool versus by the organization,
+
+NOTE Confidence: 0.897580021875
+
+00:02:40.310 --> 00:02:42.333
+so that does mean that the password
+
+NOTE Confidence: 0.897580021875
+
+00:02:42.333 --> 00:02:43.887
+will be different than what
+
+NOTE Confidence: 0.897580021875
+
+00:02:43.887 --> 00:02:45.447
+your password might look like,
+
+NOTE Confidence: 0.897580021875
+
+00:02:45.450 --> 00:02:47.193
+and you see the same support here
+
+NOTE Confidence: 0.897580021875
+
+00:02:47.193 --> 00:02:49.172
+when we talk about the ID type
+
+NOTE Confidence: 0.897580021875
+
+00:02:49.172 --> 00:02:50.642
+in creative and document cloud.
+
+NOTE Confidence: 0.897580021875
+
+00:02:50.650 --> 00:02:52.606
+When you look at enterprise versus
+
+NOTE Confidence: 0.897580021875
+
+00:02:52.606 --> 00:02:54.300
+looking at something for teams.
+
+NOTE Confidence: 0.817025973043478
+
+00:02:57.380 --> 00:02:59.228
+And then the next ID type and this
+
+NOTE Confidence: 0.817025973043478
+
+00:02:59.228 --> 00:03:01.023
+is probably what is most common that
+
+NOTE Confidence: 0.817025973043478
+
+00:03:01.023 --> 00:03:02.960
+you'll see most people set up and uses,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:02.960 --> 00:03:04.076
+which is called an Adobe ID.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:04.080 --> 00:03:06.544
+So this is a user created account.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:06.550 --> 00:03:07.834
+If you went to the Adobe
+
+NOTE Confidence: 0.817025973043478
+
+00:03:07.834 --> 00:03:09.100
+website and created an account,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:09.100 --> 00:03:11.316
+you get assigned what's called an Adobe ID.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:11.320 --> 00:03:14.510
+So user controlled Adobe again
+
+NOTE Confidence: 0.817025973043478
+
+00:03:14.510 --> 00:03:16.424
+manages the authentication.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:16.430 --> 00:03:17.630
+But it's on any domain,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:17.630 --> 00:03:20.478
+so I can sign up with Gmail address
+
+NOTE Confidence: 0.817025973043478
+
+00:03:20.478 --> 00:03:22.792
+or Yahoo address or adobe.com address.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:22.792 --> 00:03:24.196
+It doesn't really matter,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:24.200 --> 00:03:25.916
+there's no enforcement here and therefore
+
+NOTE Confidence: 0.817025973043478
+
+00:03:25.916 --> 00:03:27.859
+that's what we call domain agnostic.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:27.860 --> 00:03:28.476
+And again,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:28.476 --> 00:03:30.632
+the user controls all the assets because
+
+NOTE Confidence: 0.817025973043478
+
+00:03:30.632 --> 00:03:32.570
+they're the ones managing the account.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:32.570 --> 00:03:34.060
+The security monitoring stays the
+
+NOTE Confidence: 0.817025973043478
+
+00:03:34.060 --> 00:03:35.930
+exact same though as an enterprise
+
+NOTE Confidence: 0.817025973043478
+
+00:03:35.930 --> 00:03:38.482
+ID because it's just using it to be
+
+NOTE Confidence: 0.817025973043478
+
+00:03:38.482 --> 00:03:39.722
+infrastructure to manage these users.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:39.722 --> 00:03:42.090
+So we give you the same access to the logs,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:42.090 --> 00:03:43.835
+same sharing restrictions that you
+
+NOTE Confidence: 0.817025973043478
+
+00:03:43.835 --> 00:03:45.580
+can apply in password policies.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:45.580 --> 00:03:46.860
+And the password management
+
+NOTE Confidence: 0.817025973043478
+
+00:03:46.860 --> 00:03:48.460
+again is provided by Adobe.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:48.460 --> 00:03:51.646
+So there is a dual authentication
+
+NOTE Confidence: 0.817025973043478
+
+00:03:51.646 --> 00:03:53.927
+password reset flow where you'll see
+
+NOTE Confidence: 0.817025973043478
+
+00:03:53.927 --> 00:03:55.530
+a difference here is if we're talking
+
+NOTE Confidence: 0.817025973043478
+
+00:03:55.576 --> 00:03:57.016
+about creative and document cloud.
+
+NOTE Confidence: 0.817025973043478
+
+00:03:57.020 --> 00:03:58.428
+From an enterprise standpoint,
+
+NOTE Confidence: 0.817025973043478
+
+00:03:58.428 --> 00:04:00.540
+you can't have Adobe ID's here.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:00.540 --> 00:04:02.087
+You have to be on an enterprise
+
+NOTE Confidence: 0.817025973043478
+
+00:04:02.087 --> 00:04:03.598
+or Federated ID for valid reason.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:03.600 --> 00:04:04.760
+It is an enterprise license.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:04.760 --> 00:04:07.497
+Therefore we need to make sure that
+
+NOTE Confidence: 0.817025973043478
+
+00:04:07.500 --> 00:04:08.748
+the organizations are enforcing
+
+NOTE Confidence: 0.817025973043478
+
+00:04:08.748 --> 00:04:10.930
+that only on the domains they want.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:10.930 --> 00:04:13.010
+But it does work when you look at
+
+NOTE Confidence: 0.817025973043478
+
+00:04:13.010 --> 00:04:15.359
+more teams and again for across the
+
+NOTE Confidence: 0.817025973043478
+
+00:04:15.359 --> 00:04:17.180
+experience cloud. No difference now.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:17.180 --> 00:04:19.770
+One of the challenges that you saw
+
+NOTE Confidence: 0.817025973043478
+
+00:04:19.840 --> 00:04:22.430
+with these three ID types is there's
+
+NOTE Confidence: 0.817025973043478
+
+00:04:22.430 --> 00:04:24.322
+often times that an organization
+
+NOTE Confidence: 0.817025973043478
+
+00:04:24.322 --> 00:04:26.814
+may be hiring out of sight of
+
+NOTE Confidence: 0.817025973043478
+
+00:04:26.814 --> 00:04:28.820
+their company for people to help
+
+NOTE Confidence: 0.817025973043478
+
+00:04:28.820 --> 00:04:30.470
+perform work within the tool,
+
+NOTE Confidence: 0.817025973043478
+
+00:04:30.470 --> 00:04:32.275
+and therefore what typically would
+
+NOTE Confidence: 0.817025973043478
+
+00:04:32.275 --> 00:04:34.731
+happen is you might see that they
+
+NOTE Confidence: 0.817025973043478
+
+00:04:34.731 --> 00:04:37.067
+would create an Adobe ID for a person
+
+NOTE Confidence: 0.817025973043478
+
+00:04:37.138 --> 00:04:39.268
+to work within their organization so
+
+NOTE Confidence: 0.817025973043478
+
+00:04:39.268 --> 00:04:41.538
+I can have Federated or enterprise.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:41.538 --> 00:04:43.860
+Set up within my organization and
+
+NOTE Confidence: 0.817025973043478
+
+00:04:43.860 --> 00:04:45.660
+I can also if I so choose as the
+
+NOTE Confidence: 0.817025973043478
+
+00:04:45.725 --> 00:04:48.175
+administrator to add people with Adobe ID's.
+
+NOTE Confidence: 0.817025973043478
+
+00:04:48.180 --> 00:04:50.996
+The problem is is if that person ever
+
+NOTE Confidence: 0.817025973043478
+
+00:04:50.996 --> 00:04:53.072
+leaves the organization anything
+
+NOTE Confidence: 0.817025973043478
+
+00:04:53.072 --> 00:04:55.132
+that they've created within any
+
+NOTE Confidence: 0.817025973043478
+
+00:04:55.132 --> 00:04:57.089
+of those license applications may
+
+NOTE Confidence: 0.817025973043478
+
+00:04:57.089 --> 00:04:58.839
+be tide back to that Adobe ID,
+
+NOTE Confidence: 0.817025973043478
+
+00:04:58.840 --> 00:05:00.328
+and because they're no longer there,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:00.330 --> 00:05:02.094
+I do not have rights sometimes
+
+NOTE Confidence: 0.817025973043478
+
+00:05:02.094 --> 00:05:02.976
+to that content.
+
+NOTE Confidence: 0.817025973043478
+
+00:05:02.980 --> 00:05:04.492
+This is you see the specifically
+
+NOTE Confidence: 0.817025973043478
+
+00:05:04.492 --> 00:05:06.679
+show up in the creative cloud space,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:06.680 --> 00:05:08.800
+more so than anywhere.
+
+NOTE Confidence: 0.817025973043478
+
+00:05:08.800 --> 00:05:10.150
+And so Adobe has introduced a
+
+NOTE Confidence: 0.817025973043478
+
+00:05:10.150 --> 00:05:11.260
+new form of an ID,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:11.260 --> 00:05:13.810
+which is called a business ID.
+
+NOTE Confidence: 0.817025973043478
+
+00:05:13.810 --> 00:05:17.128
+A business ID is a linked account,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:17.130 --> 00:05:20.340
+so it's controlled by an organization.
+
+NOTE Confidence: 0.817025973043478
+
+00:05:20.340 --> 00:05:22.380
+So immediately shoves itself more into
+
+NOTE Confidence: 0.817025973043478
+
+00:05:22.380 --> 00:05:24.490
+a Federated enterprise ID tech mindset,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:24.490 --> 00:05:26.586
+but it's always linked so I cannot just
+
+NOTE Confidence: 0.817025973043478
+
+00:05:26.586 --> 00:05:28.680
+have a business ID without it being
+
+NOTE Confidence: 0.817025973043478
+
+00:05:28.680 --> 00:05:31.435
+linked back to either an enterprise or
+
+NOTE Confidence: 0.817025973043478
+
+00:05:31.435 --> 00:05:34.171
+a Federated ID and doesn't necessarily
+
+NOTE Confidence: 0.817025973043478
+
+00:05:34.171 --> 00:05:35.656
+need to follow domain policy.
+
+NOTE Confidence: 0.817025973043478
+
+00:05:35.660 --> 00:05:36.680
+It depends again on how
+
+NOTE Confidence: 0.817025973043478
+
+00:05:36.680 --> 00:05:37.496
+you're setting this up,
+
+NOTE Confidence: 0.817025973043478
+
+00:05:37.500 --> 00:05:39.525
+but what this allows organizations
+
+NOTE Confidence: 0.817025973043478
+
+00:05:39.525 --> 00:05:41.550
+to do is if they're
+
+NOTE Confidence: 0.865933889411765
+
+00:05:41.628 --> 00:05:44.093
+implementing a Federated or enterprise
+
+NOTE Confidence: 0.865933889411765
+
+00:05:44.093 --> 00:05:46.552
+type ID for their user management.
+
+NOTE Confidence: 0.865933889411765
+
+00:05:46.552 --> 00:05:48.760
+I can also set up Jill,
+
+NOTE Confidence: 0.865933889411765
+
+00:05:48.760 --> 00:05:50.548
+who doesn't work for my company.
+
+NOTE Confidence: 0.865933889411765
+
+00:05:50.550 --> 00:05:52.182
+With a business ID,
+
+NOTE Confidence: 0.865933889411765
+
+00:05:52.182 --> 00:05:55.309
+Jill will have access to log into my
+
+NOTE Confidence: 0.865933889411765
+
+00:05:55.310 --> 00:05:57.767
+company suite of tools and use them,
+
+NOTE Confidence: 0.865933889411765
+
+00:05:57.770 --> 00:05:59.240
+and when I revoke her access,
+
+NOTE Confidence: 0.865933889411765
+
+00:05:59.240 --> 00:06:00.780
+anything that she has
+
+NOTE Confidence: 0.865933889411765
+
+00:06:00.780 --> 00:06:03.090
+created is now owned by me,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:03.090 --> 00:06:04.314
+the administrator and the
+
+NOTE Confidence: 0.865933889411765
+
+00:06:04.314 --> 00:06:05.844
+company versus owned by Jill.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:05.850 --> 00:06:07.554
+So in the creative cloud space
+
+NOTE Confidence: 0.865933889411765
+
+00:06:07.554 --> 00:06:09.731
+you can think of this very much
+
+NOTE Confidence: 0.865933889411765
+
+00:06:09.731 --> 00:06:11.356
+as I'm creating some assets.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:11.360 --> 00:06:12.872
+Photos, graphics, logos,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:12.872 --> 00:06:17.160
+things that I'm working on with the company.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:17.160 --> 00:06:18.980
+I leave that company and those assets
+
+NOTE Confidence: 0.865933889411765
+
+00:06:18.980 --> 00:06:20.559
+were being created for the company.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:20.560 --> 00:06:22.852
+Therefore the company should own or
+
+NOTE Confidence: 0.865933889411765
+
+00:06:22.852 --> 00:06:25.478
+retain the rights to those not Jill,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:25.480 --> 00:06:26.908
+and so that's where the business
+
+NOTE Confidence: 0.865933889411765
+
+00:06:26.908 --> 00:06:27.860
+ID really comes in,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:27.860 --> 00:06:29.576
+and so you'll see again here.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:29.580 --> 00:06:32.009
+It's really built for creative and document
+
+NOTE Confidence: 0.865933889411765
+
+00:06:32.009 --> 00:06:34.449
+cloud from an enterprise standpoint.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:34.450 --> 00:06:36.606
+So as those assets are being created,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:36.610 --> 00:06:37.930
+they're being created on
+
+NOTE Confidence: 0.865933889411765
+
+00:06:37.930 --> 00:06:39.250
+behalf of that company,
+
+NOTE Confidence: 0.865933889411765
+
+00:06:39.250 --> 00:06:41.588
+and therefore they're owned by that company.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:41.590 --> 00:06:42.970
+And that's a little bit
+
+NOTE Confidence: 0.865933889411765
+
+00:06:42.970 --> 00:06:44.350
+about the different types of
+
+NOTE Confidence: 0.865933889411765
+
+00:06:44.408 --> 00:06:45.788
+user access that you have.
+
+NOTE Confidence: 0.865933889411765
+
+00:06:45.790 --> 00:06:48.000
+Thanks.
