@@ -12,7 +12,7 @@ hideBreadcrumbNav: true
 
 # Developer Experience starts here!
 
-Educating and enabling developers, architects, engineers and tech savvy folks on the "_why_" behind the "_how_" with Experience Platform
+Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_" with Experience Platform
 
 
 
