@@ -87,7 +87,7 @@ Its time to test out your Postman setup to see if you can access the Experience 
 
     ![Set Postman Environment](../images/postman-set-ims-env.gif) 
 
-2. Its time. Click `Send` and see magic happen.
+2. Navigate back to sidebar and select 'Collections' and then select the only call in the 'Identity Management Service' folder. Open the call and double check that variables in the 'Body' are populated.  If all is good then its time to make magic happen. Click `Send`.
 
     ![Set Postman Environment](../images/postman-ims-auth-censored.png) 
 
