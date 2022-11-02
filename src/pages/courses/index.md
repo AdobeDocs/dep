@@ -13,7 +13,6 @@ hideBreadcrumbNav: true
 Start your learning adventure for the Experience Platform through the courses below.
 
 
-
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![Experience Cloud Logo](images/aec-logo.svg)

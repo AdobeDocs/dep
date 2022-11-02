@@ -26,7 +26,6 @@ Start working with the Experience Platform APIs by setting up Postman
 [Start](../download-install/index.md)
 
 <br/>
-<br/>
 
 ## What is Postman?
 

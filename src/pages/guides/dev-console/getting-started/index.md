@@ -22,7 +22,6 @@ Get started with creating your very own Developer Project and accessing the Expe
 [Start](../create-project/index.md)
 
 <br/>
-<br/>
 
 ## What You Will Learn
 

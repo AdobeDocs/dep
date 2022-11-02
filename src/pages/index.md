@@ -15,7 +15,6 @@ hideBreadcrumbNav: true
 Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_"
 
 
-
 <TitleBlock slots="heading, text" theme="light" />
 
 ### Start Learning
