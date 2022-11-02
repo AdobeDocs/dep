@@ -17,17 +17,6 @@ hideBreadcrumbNav: true
 Develop and build faster with Postman and Experience Platform APIs
 
 
-<AnnouncementBlock slots="heading, text, button" />
-
-### Let's Get Started
-
-Start working with the Experience Platform APIs by setting up Postman
-
-[Start](../download-install/index.md)
-
-<br/>
-<br/>
-
 ## What is Postman?
 
 Postman is a 3rd party platform purpose built for working with and using APIs. It greatly simplifies the process of working with any APIs and provides a great deal of functionality for developers. In this guide we'll walk you through how to utilize the Postman platform to work with the Experience Platform APIs.
@@ -86,3 +75,14 @@ Better understand how Postman can simplify your API work
 Utilize existing Postman collections to quickly develop with the APIs
 
 - [Learn more](https://github.com/adobe/experience-platform-postman-samples)
+
+<br/>
+<br/>
+
+<AnnouncementBlock slots="heading, text, button" />
+
+### Let's Get Started
+
+Start working with the Experience Platform APIs by setting up Postman
+
+[Start](../download-install/index.md)
