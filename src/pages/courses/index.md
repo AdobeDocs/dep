@@ -19,7 +19,7 @@ Start your learning adventure for the Experience Platform through the courses be
 
 #### Experience Cloud Essentials
 
-The Adobe Experience Cloud is what powers the backbone of the Adobe suite of the digital marketing tools. Understanding how it works will help you better manage and make strategic decisions around how you setup and deploy your marketing teams for success. 
+The Adobe Experience Cloud is what powers the backbone of the Adobe suite of the digital marketing tools. Understanding how it works will help you better manage and make strategic decisions around how you setup and deploy your marketing teams for success.
 
 * [Start Learning](/training/aec-essentials/index.html)
 
