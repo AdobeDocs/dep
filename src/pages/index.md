@@ -12,7 +12,7 @@ hideBreadcrumbNav: true
 
 # Developer Experience starts here!
 
-Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_"
+Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_" with Experience Platform
 
 
 
@@ -20,7 +20,7 @@ Educating and enabling developers, architects, and engineers on the "_why_" behi
 
 ### Start Learning
 
-The Adobe Experience Cloud powers a wide breadth of Adobe applications that assist in the creation, delivery and personalization of content.  Underneath many of these applications sits the central marketing brain in the Adobe Experience Platform where data collection, customer profiles and segmentation starts within Adobe's CDP. Delivering those marketing experiences though happens in a variety of applications from Adobe Commerce and Experience Manager which build the glass that customers engage with to Adobe Target, Journey Optimizer, Customer Journey Analytics, Campaign and more.  Understanding the underlying components of each of these applications and how best to operationalize these within your own martech stack is crucial to delivering on the promise of personalization at scale.
+The Adobe Experience Cloud powers a wide breadth of Adobe applications that assist in the creation, delivery and personalization of content.  Underneath many of these applications sits the central marketing brain, the Adobe Experience Platform. The Experience Platform is a centralized marketing brain allowing for various teams to analyze data, create unified customer profile and define segments and audiences. But before you start building you must first understand the underlying components in the Experience Platform and how best to operationalize these within your own martech stacks.
 
 
 <TextBlock slots="image, heading, text, links" width="33%" />
