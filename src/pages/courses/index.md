@@ -28,6 +28,8 @@ The Adobe Experience Cloud is what powers the backbone of the Adobe suite of the
 
 #### Experience Platform Essentials
 
+Gain a deeper understanding of how the Experience Platform is architected and built to create customer profiles, centralize segmentation and ensure proper use of data is enforced at time of activation.
+
 * [Coming Soon!](index.md)
 
 <!--
@@ -40,7 +42,7 @@ The Adobe Experience Cloud is what powers the backbone of the Adobe suite of the
 
 #### Experience Platform Deployment Architecture
 
-A comprehensive course that covers all aspects of the Experience Platform at a deep architectural level.
+Better understand the deployment options around how to best standup the Experience Platform given various business and legal constraints around data residency and data access.
 
 * [Coming Soon!](index.md)
 
