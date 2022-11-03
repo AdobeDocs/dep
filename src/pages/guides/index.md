@@ -12,7 +12,6 @@ hideBreadcrumbNav: true
 
 Self-guided simple lessons that teach you how to develop with various Experience Cloud applications
 
-
 ## Find the Resources to start Building
 
 <DiscoverBlock  slots="heading, link, text" theme="light" width="33%" />

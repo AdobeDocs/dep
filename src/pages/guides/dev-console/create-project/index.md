@@ -37,17 +37,17 @@ Next you need to add an API to the project. Click the `Add to Project` button in
 
 ![Add API to Project](../images/add-api-to-project.png)
 
-Filter the list of API's by the product you wish to interface with. In this guide we'll specifically select the `Adobe Experience Platform` product and then select the `Experience Platform API`. Click `Next` in the lower right of the screen 
+Filter the list of API's by the product you wish to interface with. In this guide we'll specifically select the `Adobe Experience Platform` product and then select the `Experience Platform API`. Click `Next` in the lower right of the screen
 
 ![Add Experience Platform APIs](../images/add-experience-platform-apis.png)
 
 ## Setup your Key Pair
 
-You now need to provide an ssh key. Adobe gives you two options: `Generate a key pair` or `Upload your public key`. Choose the first option `Generate a key pair` and then click the button `Generate Keypair` in the lower right of the browser. 
+You now need to provide an ssh key. Adobe gives you two options: `Generate a key pair` or `Upload your public key`. Choose the first option `Generate a key pair` and then click the button `Generate Keypair` in the lower right of the browser.
 
 ![Generate Key Pair](../images/generate-key-pair.png)
 
-This will immediately download a `config.zip` file to your local machine that contains both both the private and public key for your Adobe I/O project. 
+This will immediately download a `config.zip` file to your local machine that contains both both the private and public key for your Adobe I/O project.
 
 ![Private and Public Keys](../images/private-public-keys.png)
 
