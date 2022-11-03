@@ -13,11 +13,9 @@ hideBreadcrumbNav: true
 
 ![Adobe Developer Console Login](../images/adobe-io-login.png)
 
-
 <InlineAlert variant="warning" slots="text" />
 
 In order to use Experience Cloud product API's and subscribe to events your company administrator must assign you the necessary product permissions and developer rights via the Adobe Admin Console. Please re-visit the [Getting Started](../getting-started/index.md) page and review the Dependencies if you wish to learn more.
-
 
 ## Create a project
 
@@ -33,7 +31,6 @@ Add a name and click `Save`
 
 ![Save Project](../images/save-project-name.png)
 
-
 ## Add APIs to your project
 
 Next you need to add an API to the project. Click the `Add to Project` button in the top left of the browser  
@@ -43,7 +40,6 @@ Next you need to add an API to the project. Click the `Add to Project` button in
 Filter the list of API's by the product you wish to interface with. In this guide we'll specifically select the `Adobe Experience Platform` product and then select the `Experience Platform API`. Click `Next` in the lower right of the screen 
 
 ![Add Experience Platform APIs](../images/add-experience-platform-apis.png)
-
 
 ## Setup your Key Pair
 
@@ -58,7 +54,6 @@ This will immediately download a `config.zip` file to your local machine that co
 <InlineAlert variant="warning" slots="text" />
 
 Save this to a safe place before proceeding
-
 
 ## Assign your Project to a Product Profile
 

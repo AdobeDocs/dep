@@ -17,8 +17,6 @@ Self-guided simple lessons that teach you how to develop with various Experience
 
 <DiscoverBlock  slots="heading, link, text" theme="light" width="33%" />
 
-#### 
-
 [Developer Console](../guides/dev-console/getting-started/index.md)
 
 Get started with setting up your own project in the Adobe Developer Console to access various Adobe APIs
