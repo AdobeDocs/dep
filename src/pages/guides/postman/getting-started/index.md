@@ -16,7 +16,6 @@ hideBreadcrumbNav: true
 
 Develop and build faster with Postman and Experience Platform APIs
 
-
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Let's Get Started
@@ -38,7 +37,6 @@ Postman is a 3rd party platform purpose built for working with and using APIs. I
 - How to authenticate via Adobe's Identity Management Service (IMS)
 - How to import Postman collections
 
-
 ## Dependencies
 
 <!--
@@ -53,7 +51,6 @@ Postman is a 3rd party platform purpose built for working with and using APIs. I
 <br/>
 -->
 
-
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![Adobe Developer Console](../images/aec-logo.svg)
@@ -64,7 +61,6 @@ Create your own development project and get access to the Experience Platform AP
 
 - [Learn more](../../dev-console/getting-started/index.md)
 
-
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![Postman](../images/postman-horizontal.svg)
@@ -74,7 +70,6 @@ Create your own development project and get access to the Experience Platform AP
 Better understand how Postman can simplify your API work
 
 - [Learn more](https://www.postman.com/)
-
 
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 

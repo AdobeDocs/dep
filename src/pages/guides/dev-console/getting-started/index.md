@@ -12,7 +12,6 @@ hideBreadcrumbNav: true
 
 The ultimate developer destination to access Adobe APIs & SDKs, listen to near real-time Events, run functions on Runtime, or build plugins or App Builder apps.
 
-
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Create Your First Developer Project
@@ -26,7 +25,6 @@ Get started with creating your very own Developer Project and accessing the Expe
 ## What You Will Learn
 
 In the following guide you will learn about what the Developer Console is and how to use it to setup your own project to work with the Experience Platform.
-
 
 ## Dependencies
 

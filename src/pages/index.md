@@ -14,13 +14,11 @@ hideBreadcrumbNav: true
 
 Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_" with Experience Platform
 
-
 <TitleBlock slots="heading, text" theme="light" />
 
 ### Start Learning
 
 The Adobe Experience Cloud powers a wide breadth of Adobe applications that assist in the creation, delivery and personalization of content.  Underneath many of these applications sits the central marketing brain, the Adobe Experience Platform. The Experience Platform is a centralized marketing brain allowing for various teams to analyze data, create unified customer profile and define segments and audiences. But before you start building you must first understand the underlying components in the Experience Platform and how best to operationalize these within your own martech stacks.
-
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
@@ -32,7 +30,6 @@ Comprehensive courses that teach the "_why_" behind the "_how_" and prepare you 
 
 * [Learn More](/courses/)
 
-
 <TextBlock slots="image, heading, text, links" width="33%" />
 
 ![Experience Platform Logo](images/aep-foundation.png)
@@ -42,7 +39,6 @@ Comprehensive courses that teach the "_why_" behind the "_how_" and prepare you 
 Guides built for the developer that help you learn to leverage the APIs to build with the Experience Platform
 
 * [Learn More](/guides/)
-
 
 <TextBlock slots="image, heading, text, links" width="33%" />
 
