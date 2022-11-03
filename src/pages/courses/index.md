@@ -8,7 +8,7 @@ hideBreadcrumbNav: true
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Training Courses 
+### Training Courses
 
 Start your learning adventure for the Experience Platform through the courses below.
 
@@ -30,8 +30,6 @@ The Adobe Experience Cloud is what powers the backbone of the Adobe suite of the
 
 #### Experience Platform Essentials
 
-Go in depth to learn about how the Adobe Experience Platform is architected
-
 * [Coming Soon!](index.md)
 
 <!--
@@ -42,7 +40,7 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 
 ![Experience Platform Foundation](images/aep-foundation.png)
 
-#### Experience Platform Foundation
+#### Experience Platform Deployment Architecture
 
 A comprehensive course that covers all aspects of the Experience Platform at a deep architectural level.
 
