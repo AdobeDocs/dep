@@ -6,7 +6,7 @@ contributors:
 hideBreadcrumbNav: true 
 ---
 
-<Hero slots="image, heading, text" variant="fullwidth" background="rgb(51, 51, 51)"/> 
+<Hero slots="image, heading, text" variant="fullwidth" background="rgb(51, 51, 51)"/>
 
 ![Hero Image](images/dep-hero-v2.png)
 
