@@ -1,6 +1,7 @@
 ---
-title: Adobe Experience Platform - Create a Developer Project
-description: Learn how to create your own Developer Project via the Adobe Developer Console for Experience Platform
+title: Create a Developer Project
+description: Learn how to create your own Developer Project via the Adobe Developer Console for Adobe APIs
+contributors: 
   - https://github.com/knee
 hideBreadcrumbNav: true
 ---
@@ -13,11 +14,9 @@ hideBreadcrumbNav: true
 
 ![Adobe Developer Console Login](../images/adobe-io-login.png)
 
-
 <InlineAlert variant="warning" slots="text" />
 
 In order to use Experience Cloud product API's and subscribe to events your company administrator must assign you the necessary product permissions and developer rights via the Adobe Admin Console. Please re-visit the [Getting Started](../getting-started/index.md) page and review the Dependencies if you wish to learn more.
-
 
 ## Create a project
 
@@ -33,32 +32,29 @@ Add a name and click `Save`
 
 ![Save Project](../images/save-project-name.png)
 
-
 ## Add APIs to your project
 
 Next you need to add an API to the project. Click the `Add to Project` button in the top left of the browser  
 
 ![Add API to Project](../images/add-api-to-project.png)
 
-Filter the list of API's by product. Select `Adobe Experience Platform` and then select the `Experience Platform API`. Click `Next` in the lower right of the screen 
+Filter the list of API's by the product you wish to interface with. In this guide we'll specifically select the `Adobe Experience Platform` product and then select the `Experience Platform API`. Click `Next` in the lower right of the screen
 
 ![Add Experience Platform APIs](../images/add-experience-platform-apis.png)
 
-
 ## Setup your Key Pair
 
-You now need to provide an ssh key. Adobe gives you two options: `Generate a key pair` or `Upload your public key`. Choose the first option `Generate a key pair` and then click the button `Generate Keypair` in the lower right of the browser. 
+You now need to provide an ssh key. Adobe gives you two options: `Generate a key pair` or `Upload your public key`. Choose the first option `Generate a key pair` and then click the button `Generate Keypair` in the lower right of the browser.
 
 ![Generate Key Pair](../images/generate-key-pair.png)
 
-This will immediately download a `config.zip` file to your local machine that contains both both the private and public key for your Adobe I/O project. 
+This will immediately download a `config.zip` file to your local machine that contains both both the private and public key for your Adobe I/O project.
 
 ![Private and Public Keys](../images/private-public-keys.png)
 
 <InlineAlert variant="warning" slots="text" />
 
 Save this to a safe place before proceeding
-
 
 ## Assign your Project to a Product Profile
 
@@ -80,11 +76,11 @@ When done your screen should look like the below
 
 <SummaryBlock slots="image, heading, text, buttons" />
 
-![Postman](../../postman/images/postman.svg)
+![Postman](../../postman/images/postman.png)
 
 ## Congratulations!
 
-Awesome sauce! You have now setup your 1st Adobe Developer project with Experience Platform APIs. If you want to learn how to utilize the APIs check out the next guide where we will show you how to do so with a 3rd Party tool you may have heard of called Postman :)
+Awesome sauce! You have now setup your 1st Adobe Developer project with access to the Experience Platform APIs (or any product API's you may have selected). If you want to learn how to utilize the APIs check out the next guide where we will show you how to do so with a 3rd Party tool you may have heard of called Postman :)
 
 - [Setup Postman](../postman/getting-started/index.md)
 

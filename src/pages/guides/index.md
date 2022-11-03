@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform - Guides
-description: Welcome to the guides for Experience Platform
+title: Developer Guides
+description: A collection of guides built for developing with the Adobe Experience Cloud
 contributors: 
   - https://github.com/knee
 hideBreadcrumbNav: true
@@ -8,23 +8,20 @@ hideBreadcrumbNav: true
 
 <Hero slots="heading, text" background="rgb(50,50,50)"/>
 
-# Experience Platform Guides
+# Developer Guides
 
-Self-guided lessons to teach you how develop with the Experience Platform
-
+Self-guided simple lessons that teach you how to develop with various Experience Cloud applications
 
 ## Find the Resources to start Building
 
 <DiscoverBlock  slots="heading, link, text" theme="light" width="33%" />
 
-#### 
-
 [Developer Console](../guides/dev-console/getting-started/index.md)
 
-Get started with setting up your own project in the Adobe Developer Console to access the Experience Platform APIs
+Get started with setting up your own project in the Adobe Developer Console to access various Adobe APIs
 
 <DiscoverBlock  slots="link, text" theme="light" width="33%" />
 
 [Working with Postman](../guides/postman/getting-started/index.md)
 
-Learn how to utilize Postman to help accelerate deployments and management Experience Platform
+Learn how to utilize Postman to help accelerate deployments and management of Experience Platform
