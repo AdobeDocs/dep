@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform - Create a Developer Project
-description: Learn how to create your own Developer Project via the Adobe Developer Console for Experience Platform
+title: Create a Developer Project
+description: Learn how to create your own Developer Project via the Adobe Developer Console for Adobe APIs
   - https://github.com/knee
 hideBreadcrumbNav: true
 ---
@@ -40,7 +40,7 @@ Next you need to add an API to the project. Click the `Add to Project` button in
 
 ![Add API to Project](../images/add-api-to-project.png)
 
-Filter the list of API's by product. Select `Adobe Experience Platform` and then select the `Experience Platform API`. Click `Next` in the lower right of the screen 
+Filter the list of API's by the product you wish to interface with. In this guide we'll specifically select the `Adobe Experience Platform` product and then select the `Experience Platform API`. Click `Next` in the lower right of the screen 
 
 ![Add Experience Platform APIs](../images/add-experience-platform-apis.png)
 
@@ -80,11 +80,11 @@ When done your screen should look like the below
 
 <SummaryBlock slots="image, heading, text, buttons" />
 
-![Postman](../../postman/images/postman.svg)
+![Postman](../../postman/images/postman.png)
 
 ## Congratulations!
 
-Awesome sauce! You have now setup your 1st Adobe Developer project with Experience Platform APIs. If you want to learn how to utilize the APIs check out the next guide where we will show you how to do so with a 3rd Party tool you may have heard of called Postman :)
+Awesome sauce! You have now setup your 1st Adobe Developer project with access to the Experience Platform APIs (or any product API's you may have selected). If you want to learn how to utilize the APIs check out the next guide where we will show you how to do so with a 3rd Party tool you may have heard of called Postman :)
 
 - [Setup Postman](../postman/getting-started/index.md)
 
