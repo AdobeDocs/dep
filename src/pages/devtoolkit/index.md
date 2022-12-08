@@ -97,12 +97,3 @@ Provides configuration guidance and best practices for the /segments endpoint.
 [Adobe Experience Platform API Reference](https://www.adobe.io/experience-platform-apis/)
 
 Provides configuration guidance and best practices for the /reports endpoint.
-
-
-
-
-  
-
-    
-
-  

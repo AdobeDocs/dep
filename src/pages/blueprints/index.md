@@ -12,12 +12,9 @@ Blueprints provide developers with quick way to understand how Adobe products ar
 
 ## What's New
 
-
 import {clouds, products} from '../../products'
 
 <ProductCardGrid clouds={clouds} products={products} interaction={true} />
-
-
 
 ## Blog Posts
 

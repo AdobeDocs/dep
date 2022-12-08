@@ -108,4 +108,3 @@ As a best practice its always recommended that you change the `TYPE` value in Po
 <InlineAlert variant="help" slots="text" />
 
 A common error that is often encountered when making the call is due to a poorly copied `PRIVATE_KEY`. Be sure that when you copy/paste your private key into the Postman environment variable values that you include the full text of the private key including the header (-----BEGIN RSA PRIVATE KEY------) and footer.
-
