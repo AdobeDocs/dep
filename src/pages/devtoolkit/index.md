@@ -2,7 +2,7 @@
 title: Adobe Developer Experience Program
 description: Training for the Enterprise Architect, Data Architect, Data Engineer and general developer
 contributors:
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 
@@ -14,9 +14,6 @@ hideBreadcrumbNav: true
 
 A collection of tools to help developers work with the Experience Platform
 
-
-
-
 <TextBlock slots="image, heading, text1, text2, text3, text4, text5, text6, buttons"  />
 
 ![Experience Cloud Logo](../images/aep-foundation.png)
@@ -26,11 +23,12 @@ A collection of tools to help developers work with the Experience Platform
 A simple node.js application that provides pre-packaged methods for working with the Adobe Experience Platform
 
 Features:
+
 - locally sign a JWT, request an access token from Adobe IMS and generate your pSQL connection directly from the application
 - native ngrok integration to receive/respond to challenge requests when working with Adobe I/O webhooks
 
-
 Dependencies:
+
 - node.js - https://nodejs.org/en/download/
 - Express - https://expressjs.com/en/starter/installing.html
 - @adobe/jwt-auth - https://github.com/adobe/jwt-auth
@@ -41,9 +39,6 @@ Dependencies:
 - [View docs](../guides/developer-app/getting-started/)
 - [Github Repo](https://github.com/eknee/aep-developer-app/)
 
-
-
-
 <TextBlock slots="heading, text1, text2, text3, text4, text5, text6, buttons, image"  />
 
 ### Postman Collections
@@ -51,10 +46,12 @@ Dependencies:
 A set of collections that can be used with Postman to accelerate implementation and administration of the Experience Platform.
 
 Provides the following functionality:
+
 - GET '/' - receives and responds to challenge request when setting up a webhook in Adobe I/O
 - POST '/auth' - used to locally sign a JWT and request an access token from Adobe IMS
 
 Dependencies:
+
 - Postman App - https://expressjs.com/en/starter/installing.html
 OR
 - Postman Newman (CLI) - https://github.com/postmanlabs/newman
@@ -67,12 +64,10 @@ OR
 
 ![Experience Cloud Logo](../images/aep-foundation.png)
 
-
 <br />
 <br />
 <br />
 <br />
-
 
 ## Reference Material
 
@@ -84,25 +79,14 @@ OR
 
 Returns information on the user's company that is necessary for making other Adobe Analytics API calls.
 
-
 <DiscoverBlock slots="link, text"/>
 
 [API Fundamentals](https://experienceleague.adobe.com/docs/experience-platform/landing/platform-apis/api-fundamentals.html?lang=en)
 
 Provides configuration guidance and best practices for the /segments endpoint.
 
-
 <DiscoverBlock slots="link, text"/>
 
 [Adobe Experience Platform API Reference](https://www.adobe.io/experience-platform-apis/)
 
 Provides configuration guidance and best practices for the /reports endpoint.
-
-
-
-
-  
-
-    
-
-  

@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Authenticate
 description: Learn how to use Postman to authenticate to Adobe Identity Management Service
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 
@@ -25,15 +25,15 @@ A JSON Web Token for Service Account authentication requires a particular set of
 | aud | Required. The audience for the token, your API Key from the Adobe Developer Console integration, in the format: https://ims-na1.adobelogin.com/c/api_key. |
 | Metascopes | Required. The API-access claim configured for your organization: JWT Metascopes, in the format: "https://ims-na1.adobelogin.com/s/meta_scope": true |
 
-
 ### Bootstrapping the authentication process
 
-To be able to authenticate, Adobe has developed a collection that locally signs the JWT on your machine and then passes that JWT in the call to Adobe's Identity Management Service (IMS) to authenticate. To locally sign the JWT a crypto JavaScript library is loaded as part of a pre-request script in the Postman request. This script uses the “RSA-Sign JavaScript Library” and creates a Global Postman environment variable (which persists even if you close Postman, nice!). 
+To be able to authenticate, Adobe has developed a collection that locally signs the JWT on your machine and then passes that JWT in the call to Adobe's Identity Management Service (IMS) to authenticate. To locally sign the JWT a crypto JavaScript library is loaded as part of a pre-request script in the Postman request. This script uses the “RSA-Sign JavaScript Library” and creates a Global Postman environment variable (which persists even if you close Postman, nice!).
 
 The response from the request to Adobe's IMS will always respond with the following upon a successful call
 
 #### Success
-```
+
+```json
 {
     "token_type": "bearer",
     "access_token": "<value>",
@@ -44,7 +44,6 @@ The response from the request to Adobe's IMS will always respond with the follow
 <InlineAlert variant="help" slots="text" />
 
 A common error that is often encountered when making the call is due to a poorly copied `PRIVATE_KEY`. Be sure that when you copy/paste your private key into the Postman environment variable values that you include the full text of the private key including the header (-----BEGIN RSA PRIVATE KEY------) and footer.
-
 
 ## Get the Identity Management Service Collection
 
@@ -70,14 +69,13 @@ A common error that is often encountered when making the call is due to a poorly
 
 3. On the next screen you will be presented with the details about the collection. Go ahead and click `Import`
 
-    ![Import IMS Collection](../images/import-create-ims.png) 
+    ![Import IMS Collection](../images/import-create-ims.png)
 
 <br/>
 
 4. You should now see the collection in your Postman application. You can view it by simply selecting `Collections` in the sidebar and then clicking into the single request contained within the collection.
 
-    ![Preview IMS Collection](../images/postman-ims-preview.png) 
-
+    ![Preview IMS Collection](../images/postman-ims-preview.png)
 
 ## Generate your Access Token
 
@@ -85,18 +83,19 @@ Its time to test out your Postman setup to see if you can access the Experience 
 
 1. In the upper right of the work area select your environment from the environment drop-down
 
-    ![Set Postman Environment](../images/postman-set-ims-env.gif) 
+    ![Set Postman Environment](../images/postman-set-ims-env.gif)
 
 2. Navigate back to sidebar and select 'Collections' and then select the only call in the 'Identity Management Service' folder. Open the call and double check that variables in the 'Body' are populated.  If all is good then its time to make magic happen. Click `Send`.
 
-    ![Set Postman Environment](../images/postman-ims-auth-censored.png) 
+    ![Set Postman Environment](../images/postman-ims-auth-censored.png)
 
 <br/>
 
 The response from the request to Adobe's IMS will always respond with the following upon a successful call. If you see this awesome sauce!
 
 #### Success
-```
+
+```json
 {
     "token_type": "bearer",
     "access_token": "<value>",

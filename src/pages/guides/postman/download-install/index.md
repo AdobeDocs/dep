@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Download and Install Postman
 description: Learn how to download and install Postman as well as 
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 
@@ -30,7 +30,6 @@ Open the Postman application and familiarize yourself with a few areas of the ap
 
 ![Navigating Postman App](../images/postman-app-navigation.png)
 
-
 ### Sidebar
 
 The sidebar is what allows you to navigate quickly across the different Postman elements. In Experience Platform you will predominately only use the two mentioned below. You can learn more at the following
@@ -54,7 +53,6 @@ Environment selector - allows you to quickly switch between different environmen
 ### Footer
 
 At the very bottom of the Postman application you will find a set of functions that allow you to quickly see and toggle features on/off.
-
 
 ## Learn More about Postman
 

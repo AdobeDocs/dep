@@ -2,7 +2,7 @@
 title: Developer Guides
 description: A collection of guides built for developing with the Adobe Experience Cloud
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

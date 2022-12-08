@@ -2,7 +2,7 @@
 title: Adobe Developer Experience Program - Blueprints
 description: Architectural diagrams of the various Adobe products, the use cases they support and their various integration patterns with enterprise systems
 contributors:
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 
@@ -12,12 +12,9 @@ Blueprints provide developers with quick way to understand how Adobe products ar
 
 ## What's New
 
-
 import {clouds, products} from '../../products'
 
 <ProductCardGrid clouds={clouds} products={products} interaction={true} />
-
-
 
 ## Blog Posts
 
