@@ -18,7 +18,7 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'Training Courses',
+        title: 'Courses',
         path: '/courses/'        
       },
       {

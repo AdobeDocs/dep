@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Authenticate
 description: Learn how to use Postman to authenticate to Adobe Identity Management Service
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

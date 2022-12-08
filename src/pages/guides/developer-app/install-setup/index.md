@@ -2,7 +2,7 @@
 title: Adobe Experience Platform Developer App - Install & Setup
 description: Learn how to install & setup the Adobe Experience Platform Developer app 
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

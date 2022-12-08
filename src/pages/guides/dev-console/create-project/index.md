@@ -2,7 +2,7 @@
 title: Create a Developer Project
 description: Learn how to create your own Developer Project via the Adobe Developer Console for Adobe APIs
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

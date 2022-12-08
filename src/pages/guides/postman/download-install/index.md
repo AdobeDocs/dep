@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Download and Install Postman
 description: Learn how to download and install Postman as well as 
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

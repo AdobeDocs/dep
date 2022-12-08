@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Getting Started with Adobe Developer Console
 description: Learn how to work with the Adobe Developer Console to create your own projects
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

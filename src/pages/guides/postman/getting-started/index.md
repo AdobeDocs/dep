@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Getting Started with Postman
 description: Learn how to use Postman with the Experience Platform APIs
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

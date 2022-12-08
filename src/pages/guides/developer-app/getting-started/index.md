@@ -2,7 +2,7 @@
 title: Adobe Experience Platform Developer App - Getting Started
 description: Introduction to the Adobe Experience Developer App features & benefits, pre-requisites and the included postman collection for authentication
 contributors:
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 

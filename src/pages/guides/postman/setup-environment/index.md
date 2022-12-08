@@ -2,7 +2,7 @@
 title: Adobe Experience Platform - Setup Environment
 description: Learn how to setup a Postman environment to work with the Experience Platform
 contributors: 
-  - https://github.com/knee
+  - https://github.com/eknee
 hideBreadcrumbNav: true
 ---
 
