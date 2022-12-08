@@ -17,7 +17,6 @@ There are two ways you can get a Postman environment file:
 
 If you do not have an environment file proceed with option #1 listed above.
 
-
 ## Copy the Environment Template
 
 Navigate to the Experience Platform Postman Samples Github repository and copy the [Postman Environment Template](https://github.com/adobe/experience-platform-postman-samples/blob/master/Postman%20Environment%20Template.postman_environment.json)
@@ -27,7 +26,6 @@ Navigate to the Experience Platform Postman Samples Github repository and copy t
 <InlineAlert variant="info" slots="text" />
 
 You can skip this step you already have your environment file from following the Developer Console Guide
-
 
 ## Import the Postman Environment
 
@@ -51,7 +49,6 @@ If you have your Developer Project environment file handy chose the `File` optio
 
 ![Import Environment](../images/import-create-env.png)
 
-
 ## Rename your Environment 
 
 1. In your Postman app click on `Environments` in the sidebar and then click on the environment name you just imported. You should now see the screen below.
@@ -63,7 +60,6 @@ If you have your Developer Project environment file handy chose the `File` optio
 2. In the work area of the Postman app click on the `pencil` icon that will display as you move your mouse over the environment name. Give your environment a friendly name as you will reference this environment later when you start working with the Experience Platform APIs
 
   ![Environment Details Screen](../images/postman-rename-env.gif)
-
 
 ## Populate the Environment Variables
 
@@ -83,7 +79,6 @@ _* Ensure you populate the values of `Initial` and `Current` value in your envir
 
 <br/>
 <br/>
-
 
 ![Developer Console Creds](../images/dev-console-creds.png)
 

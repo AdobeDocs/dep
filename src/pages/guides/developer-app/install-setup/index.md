@@ -37,15 +37,14 @@ sudo apt-get install npm
 ```
 
 ## Downloading the App
+
 _This instruction list applies for users installing via linux or WSL_
 
 1. Download the [aep-developer-app](https://github.com/eknee/aep-developer-app.git) repo to your local computer  
 
    ```
    git clone https://github.com/eknee/aep-developer-app.git <your-directory>
-   ``` 
-
-
+   ```
 
 1. In the directory you cloned the git repo in run the following command to install the dependencies
 
@@ -61,4 +60,3 @@ _This instruction list applies for users installing via linux or WSL_
 
    You should then see the following response in your console:
    `Started server at http://localhost:3000`
-   

@@ -25,14 +25,14 @@ A JSON Web Token for Service Account authentication requires a particular set of
 | aud | Required. The audience for the token, your API Key from the Adobe Developer Console integration, in the format: https://ims-na1.adobelogin.com/c/api_key. |
 | Metascopes | Required. The API-access claim configured for your organization: JWT Metascopes, in the format: "https://ims-na1.adobelogin.com/s/meta_scope": true |
 
-
 ### Bootstrapping the authentication process
 
-To be able to authenticate, Adobe has developed a collection that locally signs the JWT on your machine and then passes that JWT in the call to Adobe's Identity Management Service (IMS) to authenticate. To locally sign the JWT a crypto JavaScript library is loaded as part of a pre-request script in the Postman request. This script uses the “RSA-Sign JavaScript Library” and creates a Global Postman environment variable (which persists even if you close Postman, nice!). 
+To be able to authenticate, Adobe has developed a collection that locally signs the JWT on your machine and then passes that JWT in the call to Adobe's Identity Management Service (IMS) to authenticate. To locally sign the JWT a crypto JavaScript library is loaded as part of a pre-request script in the Postman request. This script uses the “RSA-Sign JavaScript Library” and creates a Global Postman environment variable (which persists even if you close Postman, nice!).
 
 The response from the request to Adobe's IMS will always respond with the following upon a successful call
 
 #### Success
+
 ```
 {
     "token_type": "bearer",
@@ -44,7 +44,6 @@ The response from the request to Adobe's IMS will always respond with the follow
 <InlineAlert variant="help" slots="text" />
 
 A common error that is often encountered when making the call is due to a poorly copied `PRIVATE_KEY`. Be sure that when you copy/paste your private key into the Postman environment variable values that you include the full text of the private key including the header (-----BEGIN RSA PRIVATE KEY------) and footer.
-
 
 ## Get the Identity Management Service Collection
 
@@ -78,7 +77,6 @@ A common error that is often encountered when making the call is due to a poorly
 
     ![Preview IMS Collection](../images/postman-ims-preview.png) 
 
-
 ## Generate your Access Token
 
 Its time to test out your Postman setup to see if you can access the Experience Platform APIs via your developer project. Before you can go firing of your first call though we need to select the environment that Postman will use.
@@ -96,6 +94,7 @@ Its time to test out your Postman setup to see if you can access the Experience 
 The response from the request to Adobe's IMS will always respond with the following upon a successful call. If you see this awesome sauce!
 
 #### Success
+
 ```
 {
     "token_type": "bearer",
