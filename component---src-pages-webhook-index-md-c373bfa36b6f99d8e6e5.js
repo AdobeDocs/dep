@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkdep=self.webpackChunkdep||[]).push([[464],{8689:function(n,t,e){e.r(t),e.d(t,{_frontmatter:function(){return f},default:function(){return m}});var o=e(7462),r=e(3366),u=(e(5007),e(4983)),c=e(1515),p=["components"],f={},s={_frontmatter:f},a=c.Z;function m(n){var t=n.components,e=(0,r.Z)(n,p);return(0,u.mdx)(a,(0,o.Z)({},s,e,{components:t,mdxType:"MDXLayout"}))}m.isMDXComponent=!0}}]);
-//# sourceMappingURL=component---src-pages-webhook-index-md-c373bfa36b6f99d8e6e5.js.map
