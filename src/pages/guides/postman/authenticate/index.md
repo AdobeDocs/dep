@@ -33,7 +33,7 @@ The response from the request to Adobe's IMS will always respond with the follow
 
 #### Success
 
-```
+```json
 {
     "token_type": "bearer",
     "access_token": "<value>",
@@ -69,13 +69,13 @@ A common error that is often encountered when making the call is due to a poorly
 
 3. On the next screen you will be presented with the details about the collection. Go ahead and click `Import`
 
-    ![Import IMS Collection](../images/import-create-ims.png) 
+    ![Import IMS Collection](../images/import-create-ims.png)
 
 <br/>
 
 4. You should now see the collection in your Postman application. You can view it by simply selecting `Collections` in the sidebar and then clicking into the single request contained within the collection.
 
-    ![Preview IMS Collection](../images/postman-ims-preview.png) 
+    ![Preview IMS Collection](../images/postman-ims-preview.png)
 
 ## Generate your Access Token
 
@@ -83,11 +83,11 @@ Its time to test out your Postman setup to see if you can access the Experience 
 
 1. In the upper right of the work area select your environment from the environment drop-down
 
-    ![Set Postman Environment](../images/postman-set-ims-env.gif) 
+    ![Set Postman Environment](../images/postman-set-ims-env.gif)
 
 2. Navigate back to sidebar and select 'Collections' and then select the only call in the 'Identity Management Service' folder. Open the call and double check that variables in the 'Body' are populated.  If all is good then its time to make magic happen. Click `Send`.
 
-    ![Set Postman Environment](../images/postman-ims-auth-censored.png) 
+    ![Set Postman Environment](../images/postman-ims-auth-censored.png)
 
 <br/>
 
@@ -95,7 +95,7 @@ The response from the request to Adobe's IMS will always respond with the follow
 
 #### Success
 
-```
+```json
 {
     "token_type": "bearer",
     "access_token": "<value>",

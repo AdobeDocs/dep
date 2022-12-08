@@ -49,7 +49,7 @@ If you have your Developer Project environment file handy chose the `File` optio
 
 ![Import Environment](../images/import-create-env.png)
 
-## Rename your Environment 
+## Rename your Environment
 
 1. In your Postman app click on `Environments` in the sidebar and then click on the environment name you just imported. You should now see the screen below.
 
@@ -84,7 +84,7 @@ _* Ensure you populate the values of `Initial` and `Current` value in your envir
 
 <InlineAlert variant="info" slots="text" />
 
-If you do not have these available please contact your administrator or ones that have been supplied to you be your administrator. 
+If you do not have these available please contact your administrator or ones that have been supplied to you be your administrator.
 
 ### Mapping your Private Key
 

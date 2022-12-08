@@ -17,7 +17,7 @@ The Experience Platform Developer app was built to assist developers who wished 
 - Standardized Postman Libraries
   - Environment Template - aep-postman-enviornment.json
   - Authentication Collection - aep-auth-collection.json
-- Webhook challenge response when utilizing [ngrok]()
+- Webhook challenge response when utilizing ngrok
 
 ## Pre-requisites
 
@@ -28,9 +28,10 @@ The Experience Platform Developer app was built to assist developers who wished 
 - ngrok - https://ngrok.com/download (or other webhook software)
 
 ## Experience Platform Auth - Postman Collection
-To make authentication calls to any Adobe application you must have an `access token`. An access token can only be created by passing a JWT token that contains the identity of your Adobe I/O project integration ([learn more here](https://www.adobe.io/developer-console/docs/guides/authentication/JWT/)). This API does three things for you as the developer when used with the Adobe I/O Developer App: 
 
-1. Creates a `JWT` locally on your machine using the Postman Environment variables 
+To make authentication calls to any Adobe application you must have an `access token`. An access token can only be created by passing a JWT token that contains the identity of your Adobe I/O project integration ([learn more here](https://www.adobe.io/developer-console/docs/guides/authentication/JWT/)). This API does three things for you as the developer when used with the Adobe I/O Developer App:
+
+1. Creates a `JWT` locally on your machine using the Postman Environment variables
 2. Exchanges the `JWT` with the Adobe Identity Management Service (IMS) along with your Adobe I/O Project `client_id (api_key)` and `client_secret` and responds with an `access_token`
 3. _(Optionally)_ will generate a psql statement which you can use to authenticate with the Experience Platform Query Service
 
@@ -38,7 +39,7 @@ To make authentication calls to any Adobe application you must have an `access t
 
 Sample request looks like so:
 
-```
+```curl
 curl --location --request POST 'http://localhost:3000/auth' \
 --header 'Cache-Control: no-cache' \
 --header 'Content-Type: application/x-www-form-urlencoded' \
@@ -58,7 +59,7 @@ curl --location --request POST 'http://localhost:3000/auth' \
 
 Sample response will look like this:
 
-```
+```json
 {
     "token_type": "bearer",
     "access_token": "XXXXXXXX",
