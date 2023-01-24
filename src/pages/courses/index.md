@@ -2,13 +2,14 @@
 title: Adobe Developer Enablement Courses
 description: Start your learning adventure for the Experience Platform
   - https://github.com/eknee
+  - https://github.com/nishadobe
 hideBreadcrumbNav: true
 ---
 
 <!-- Title -->
 <Hero slots="image, heading, text" background="rgb(64, 34, 138)" hideBreadcrumbNav={true}/>
 
-![Courses](images/courses.png)
+![Courses](images/courses-new.png)
 
 # Courses
 
@@ -61,6 +62,15 @@ Have you ever wondered how to deploy the Experience Platform from a geographical
 <br/>
 <br/>
 <br/>
+<TextBlock slots="image, heading, text1, buttons" />
+
+![Screenshot 1](images/middle-banner.png)
+
+# In-Person Bootcamps
+
+App Builder is a cohesive set of tools and services that enable developers to extend and integrate Adobe solutions, starting with Adobe Experience Manager, all in one package.​ With a complete extensibility framework, built on Adobe's infrastructure, App Builder enables developers to extend and integrate Adobe solutions with ease.
+
+
 
 <!-- Bootcamps -->
 <TitleBlock slots="heading" theme="light" />
@@ -104,3 +114,13 @@ Learn about how Customer Journey Analytics can be used to power insights and ana
 <!--
 * [Start Learning](/courses/experience-platform-technical-foundation/)  
 -->
+
+<!-- Call to Action - To register for the course -->
+
+<AnnouncementBlock slots="heading, text, button" theme="dark" />
+
+### Join our waiting list here!
+
+Sign up for the opportunity to attend in person Adobe Experience Platform Essentials
+
+[Register Now](#)

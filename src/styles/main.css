@@ -1,0 +1,17 @@
+.myCustom h3 {
+    color: red !important;
+  }
+
+  .reviewImages img {
+    width: 300px !important;
+  }
+
+  .reviewImages div {
+    padding: 0px !important;
+    
+
+  }
+
+  .spectrum-Card-content.spectrum-Body.spectrum-Body--sizeS.css-kj965b-ProductCard {
+    font-size: 0.75rem !important;
+}
