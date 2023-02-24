@@ -20,7 +20,7 @@ import '../styles/main.css'
 Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_"
 
 * [Get started](https://adobe.io)
-* [Register to get your seat](https://adobe.io)
+<!-- * [Register to get your seat](https://adobe.io) -->
 
 <!-- Call to Action - To register for the course -->
 
@@ -70,7 +70,7 @@ The Adobe Experience Cloud (AEC) powers a wide breadth of Adobe applications tha
 
 
 
-<!-- Feedback Block -->
+<!-- Feedback Block 
 <TextBlock slots="image, heading, text1, text2" theme="dark" className="reviewImages"/>
 
 ![Screenshot 1](images/thumb-review1.png)
@@ -79,7 +79,7 @@ The Adobe Experience Cloud (AEC) powers a wide breadth of Adobe applications tha
 
 “We are committed to building superior collaboration and user experiences on our platform, and with PDF APIs from Adobe, we enabled the world’s best document experiences with ease — right within the Acumatica ERP solution.” 
 
-– Panos Tsimpos, MarTech Architect - TCS Interactive 
+– Panos Tsimpos, MarTech Architect - TCS Interactive -->
 
 <!-- Shortcut links Block -->
 <TextBlock slots="image, heading, text, links" width="33%" />
