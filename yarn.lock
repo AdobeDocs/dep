@@ -9453,6 +9453,7 @@ __metadata:
   linkType: hard
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "gatsby-core-utils@npm:^3.20.0, gatsby-core-utils@npm:^3.21.0, gatsby-core-utils@npm:^3.22.0, gatsby-core-utils@npm:^3.23.0, gatsby-core-utils@npm:^3.25.0":
   version: 3.25.0
   resolution: "gatsby-core-utils@npm:3.25.0"
@@ -9461,6 +9462,12 @@ __metadata:
   version: 3.24.0
   resolution: "gatsby-core-utils@npm:3.24.0"
 >>>>>>> main
+=======
+"gatsby-core-utils@npm:^3.20.0, gatsby-core-utils@npm:^3.21.0, gatsby-core-utils@npm:^3.22.0, gatsby-core-utils@npm:^3.23.0, gatsby-core-utils@npm:^3.25.0":
+  version: 3.25.0
+  resolution: "gatsby-core-utils@npm:3.25.0"
+
+>>>>>>> b276885175a802dfe0e62e20d166718cb5c8d9fd
   dependencies:
     "@babel/runtime": ^7.15.4
     ci-info: 2.0.0
