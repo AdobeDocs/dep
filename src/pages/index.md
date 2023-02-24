@@ -19,10 +19,10 @@ import '../styles/main.css'
 
 Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_"
 
-* [Get started](https://adobe.io)
+* [Get started](/courses/)
 <!-- * [Register to get your seat](https://adobe.io) -->
 
-<!-- Call to Action - To register for the course -->
+<!-- Call to Action - To register for the course 
 
 <AnnouncementBlock slots="heading, text, button" theme="dark"/>
 
@@ -30,7 +30,7 @@ Educating and enabling developers, architects, and engineers on the "_why_" behi
 
 Sign up for the opportunity to attend in person Adobe Experience Platform Essentials
 
-[Register Now](#)
+[Register Now](#) -->
 
 <!-- Training Course Block -->
 
