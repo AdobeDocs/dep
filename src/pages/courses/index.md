@@ -115,7 +115,7 @@ Learn about how Customer Journey Analytics can be used to power insights and ana
 * [Start Learning](/courses/experience-platform-technical-foundation/)  
 -->
 
-<!-- Call to Action - To register for the course -->
+<!-- Call to Action - To register for the course 
 
 <AnnouncementBlock slots="heading, text, button" theme="dark" />
 
@@ -123,4 +123,4 @@ Learn about how Customer Journey Analytics can be used to power insights and ana
 
 Sign up for the opportunity to attend in person Adobe Experience Platform Essentials
 
-[Register Now](#)
+[Register Now](#)-->
