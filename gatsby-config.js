@@ -110,38 +110,6 @@ module.exports = {
           }
           */
         ]
-      },
-      {
-        title: 'Adobe Experience Platform',
-        path: '/guides/postman/getting-started',
-        pages: [
-          {
-            title: 'Overview',
-            path: '/guides/postman/getting-started'
-          },
-          {
-            title: 'Module 1 - SID',
-            path: '/guides/postman/getting-started'
-          },
-          {
-            title: 'Module 2',
-            path: '/guides/postman/download-install'
-          },
-          {
-            title: 'Module 3',
-            path: '/guides/postman/setup-environment'
-          },
-          {
-            title: 'Module 4',
-            path: '/guides/postman/authenticate'
-          },
-          /*
-          {
-            title: 'Import Collections',
-            path: '/guides/postman/import-collections'
-          }
-          */
-        ]
       }
     ]
   },

@@ -19,10 +19,10 @@ import '../styles/main.css'
 
 Educating and enabling developers, architects, and engineers on the "_why_" behind the "_how_"
 
-* [Get started](https://adobe.io)
-* [Register to get your seat](https://adobe.io)
+* [Get started](/courses/)
+<!-- * [Register to get your seat](https://adobe.io) -->
 
-<!-- Call to Action - To register for the course -->
+<!-- Call to Action - To register for the course 
 
 <AnnouncementBlock slots="heading, text, button" theme="dark"/>
 
@@ -30,7 +30,7 @@ Educating and enabling developers, architects, and engineers on the "_why_" behi
 
 Sign up for the opportunity to attend in person Adobe Experience Platform Essentials
 
-[Register Now](#)
+[Register Now](#) -->
 
 <!-- Training Course Block -->
 
@@ -68,18 +68,6 @@ Digital Experience Blueprints are repeatable implementations that let you addres
 
 The Adobe Experience Cloud (AEC) powers a wide breadth of Adobe applications that assist in the creation, delivery and personalization of content.  Underneath many of these applications sits the central marketing brain in the Adobe Experience Platform where data collection, customer profiles and segmentation starts within Adobe's CDP.
 
-
-
-<!-- Feedback Block -->
-<TextBlock slots="image, heading, text1, text2" theme="dark" className="reviewImages"/>
-
-![Screenshot 1](images/thumb-review1.png)
-
-# Partner Feedback
-
-“We are committed to building superior collaboration and user experiences on our platform, and with PDF APIs from Adobe, we enabled the world’s best document experiences with ease — right within the Acumatica ERP solution.” 
-
-– Panos Tsimpos, MarTech Architect - TCS Interactive 
 
 <!-- Shortcut links Block -->
 <TextBlock slots="image, heading, text, links" width="33%" />
