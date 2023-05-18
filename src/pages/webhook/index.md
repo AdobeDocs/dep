@@ -4,5 +4,5 @@ description: A simple webhook application to use when working with Adobe Experie
 contributors:
   - https://github.com/eknee
 hideBreadcrumbNav: true 
-frameSrc: https://27200-depdevkit.adobeio-static.net/
+frameSrc: https://27200-depwebook.adobeio-static.net/
 ---
