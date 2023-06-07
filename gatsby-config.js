@@ -70,7 +70,7 @@ module.exports = {
       },
       */
       {
-        title: 'Developer Conosle',
+        title: 'Developer Console',
         path: '/guides/dev-console/getting-started',
         pages: [
           {
