@@ -26,30 +26,29 @@ module.exports = {
         path: 'https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en'
       },
       {
-        title: 'Developer Webhook',
-        path: '/webhook/'
+        title: 'Labs & Guides',
+        path: '/labs-guides/'
       },
       /*      
       {
         title: 'Developer Toolkit',
         path: '/devtoolkit/'
       },
-      */
       {
         title: 'Guides',
         path: '/guides/'
-      },    
+      },
+      */   
       {
         title: 'API Reference',
         path: '/experience-platform-apis/'
       }
-    ],
+    ]/*,
     subPages: [
       {
         title: 'Overview',
         path: '/guides/'
       },
-      /*
       {
         title: 'Developer App',
         path: '/guides/developer-app/getting-started/',
@@ -68,7 +67,6 @@ module.exports = {
           }                          
         ]
       },
-      */
       {
         title: 'Developer Console',
         path: '/guides/dev-console/getting-started',
@@ -108,10 +106,9 @@ module.exports = {
             title: 'Import Collections',
             path: '/guides/postman/import-collections'
           }
-          */
         ]
       }
-    ]
+    ]*/
   },
   plugins: [`@adobe/gatsby-theme-aio`],
   pathPrefix: process.env.PATH_PREFIX || '/dep/'
