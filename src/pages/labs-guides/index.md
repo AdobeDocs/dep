@@ -5,5 +5,6 @@ contributors:
   - https://github.com/eknee
 hideBreadcrumbNav: true
 frameSrc: https://www.developerenablement.com
+layout: none
 ---
 <meta http-equiv="Content-Security-Policy" content="frame-ancestors https://www.developerenablement.com;"/>
