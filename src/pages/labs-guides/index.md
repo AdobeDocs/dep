@@ -6,4 +6,4 @@ contributors:
 hideBreadcrumbNav: true
 frameSrc: https://www.developerenablement.com
 ---
-<meta http-equiv="Content-Security-Policy" content="frame-ancestors https://www.developerenablement.com;"/>
+<meta http-equiv="Content-Security-Policy" content="frame-ancestors https://www.dep-labs.com;"/>
