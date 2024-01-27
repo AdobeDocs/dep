@@ -4,6 +4,6 @@ description: A collection of labs and guides that can be used for enabling onese
 contributors:
   - https://github.com/eknee
 hideBreadcrumbNav: true
-frameSrc: https://www.developerenablement.com
+frameSrc: https://www.dep-labs.com
 ---
 <meta http-equiv="Content-Security-Policy" content="frame-ancestors https://www.dep-labs.com;"/>
