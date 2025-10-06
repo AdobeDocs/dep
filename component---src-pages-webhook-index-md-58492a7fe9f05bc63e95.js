@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdep=self.webpackChunkdep||[]).push([[35],{73749:function(n,t,e){e.r(t),e.d(t,{_frontmatter:function(){return s},default:function(){return a}});var o=e(58168),r=e(80045),u=(e(88763),e(15680)),c=e(83407);const p=["components"],s={},f={_frontmatter:s},m=c.A;function a(n){let{components:t}=n,e=(0,r.A)(n,p);return(0,u.mdx)(m,(0,o.A)({},f,e,{components:t,mdxType:"MDXLayout"}))}a.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-webhook-index-md-58492a7fe9f05bc63e95.js.map
