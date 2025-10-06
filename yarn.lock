@@ -33,9 +33,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:^4.14.4":
-  version: 4.14.4
-  resolution: "@adobe/gatsby-theme-aio@npm:4.14.4"
+"@adobe/gatsby-theme-aio@npm:^4.11.3":
+  version: 4.11.3
+  resolution: "@adobe/gatsby-theme-aio@npm:4.11.3"
   dependencies:
     "@adobe/focus-ring-polyfill": ^0.1.5
     "@adobe/gatsby-source-github-file-contributors": ^0.3.1
@@ -132,7 +132,7 @@ __metadata:
     gatsby: ^4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: 846ee1128ccfee37bb36313ee594349369bba472f93ca7f6b6142b7ede79842f808f3458659abbbe7972171166a14674aa1860b8ca7539c1300a804f3794b54d
+  checksum: 36b7256aba793747b6da40b867b8ad4ecd32835c1ea5bc76ee3fef5cd73d7aa14ba9734ef3c5a7db6866d806fc61afd02bf44053a1ffdd93ec8016cf130f84b7
   languageName: node
   linkType: hard
 
@@ -2654,43 +2654,6 @@ __metadata:
   version: 0.33.0
   resolution: "@img/sharp-win32-x64@npm:0.33.0"
   conditions: os=win32 & cpu=x64
-  languageName: node
-  linkType: hard
-
-"@internationalized/date@npm:^3.5.4":
-  version: 3.5.4
-  resolution: "@internationalized/date@npm:3.5.4"
-  dependencies:
-    "@swc/helpers": ^0.5.0
-  checksum: df73fb4f11e5db918f5a76f94edcaadd34b67bd4160e8ee4e2a5f518e01cdfa7196fbcabd26bfa9d8376e4822a4a1c73d68fb08249cadfaaeba5bb1d41cff032
-  languageName: node
-  linkType: hard
-
-"@internationalized/message@npm:^3.1.4":
-  version: 3.1.4
-  resolution: "@internationalized/message@npm:3.1.4"
-  dependencies:
-    "@swc/helpers": ^0.5.0
-    intl-messageformat: ^10.1.0
-  checksum: 37990cf4fd666afe8d165f3c9042e88c2d95b4a03d6e67595a49d57aff938d19f91826c7c6e5cfa2863c3d8d555365e797d5979da575a835b533fd2e31876bef
-  languageName: node
-  linkType: hard
-
-"@internationalized/number@npm:^3.5.3":
-  version: 3.5.3
-  resolution: "@internationalized/number@npm:3.5.3"
-  dependencies:
-    "@swc/helpers": ^0.5.0
-  checksum: f905cb5302d5a84660fbe0264930fadf286c7a5860373c289863bc2b9d003690552743da2b3155d65e3e9fd0e49b83673caf49c306b9bab39d6e871b6777c588
-  languageName: node
-  linkType: hard
-
-"@internationalized/string@npm:^3.2.3":
-  version: 3.2.3
-  resolution: "@internationalized/string@npm:3.2.3"
-  dependencies:
-    "@swc/helpers": ^0.5.0
-  checksum: aad1dd1de52fa48f17e41ad0a502bab621a08aadb8ccfc02512211d05f7111920d094b49811394a930542a98fe22522c2b5818f6d64eb38aca9638b7b4f11ccd
   languageName: node
   linkType: hard
 
@@ -6993,8 +6956,8 @@ __metadata:
   linkType: hard
 
 "@spectrum-css/contextualhelp@npm:^2.0.35":
-  version: 2.1.5
-  resolution: "@spectrum-css/contextualhelp@npm:2.1.5"
+  version: 2.1.0
+  resolution: "@spectrum-css/contextualhelp@npm:2.1.0"
   peerDependencies:
     "@spectrum-css/actionbutton": ">=5"
     "@spectrum-css/link": ">=4"
@@ -7003,7 +6966,7 @@ __metadata:
   peerDependenciesMeta:
     "@spectrum-css/link":
       optional: true
-  checksum: bf90063d691d3c7fbb3590ece826271cc7d37703d3e8a6869ae2fea2c77edc665f291d82a1b7e2305e2dc3a517f5fbda3bcb11cea1523d3e51923b7d7102eaf5
+  checksum: 43918cced46e61121dac70bb59177cbbf48669668ed44bec63b8c0d48af8388f2f274237b68ca2934ea8a68d2bfa0b072b2af109daf7a7a19b30e66f60466ef4
   languageName: node
   linkType: hard
 
@@ -10925,7 +10888,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "dep@workspace:."
   dependencies:
-    "@adobe/gatsby-theme-aio": ^4.14.4
+    "@adobe/gatsby-theme-aio": ^4.11.3
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -11005,9 +10968,9 @@ __metadata:
   linkType: hard
 
 "detect-libc@npm:^2.0.2":
-  version: 2.0.3
-  resolution: "detect-libc@npm:2.0.3"
-  checksum: 2ba6a939ae55f189aea996ac67afceb650413c7a34726ee92c40fb0deb2400d57ef94631a8a3f052055eea7efb0f99a9b5e6ce923415daa3e68221f963cfc27d
+  version: 2.0.2
+  resolution: "detect-libc@npm:2.0.2"
+  checksum: 2b2cd3649b83d576f4be7cc37eb3b1815c79969c8b1a03a40a4d55d83bc74d010753485753448eacb98784abf22f7dbd3911fd3b60e29fda28fed2d1a997944d
   languageName: node
   linkType: hard
 
@@ -21313,11 +21276,13 @@ __metadata:
   linkType: hard
 
 "semver@npm:^7.5.4":
-  version: 7.6.3
-  resolution: "semver@npm:7.6.3"
+  version: 7.5.4
+  resolution: "semver@npm:7.5.4"
+  dependencies:
+    lru-cache: ^6.0.0
   bin:
     semver: bin/semver.js
-  checksum: 4110ec5d015c9438f322257b1c51fe30276e5f766a3f64c09edd1d7ea7118ecbc3f379f3b69032bacf13116dc7abc4ad8ce0d7e2bd642e26b0d271b56b61a7d8
+  checksum: 12d8ad952fa353b0995bf180cdac205a4068b759a140e5d3c608317098b3575ac2f1e09182206bf2eb26120e1c0ed8fb92c48c592f6099680de56bb071423ca3
   languageName: node
   linkType: hard
 
