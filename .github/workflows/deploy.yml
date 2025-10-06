@@ -89,7 +89,7 @@ jobs:
       - name: Setup Node v20 for Yarn v3
         uses: actions/setup-node@v3
         with:
-          node-version: "24.9.0"
+          node-version: "20.19.5"
 
       - name: Enable Corepack for Yarn v3
         run: corepack enable
@@ -193,7 +193,7 @@ jobs:
       - name: Setup Node v20 for Yarn v3
         uses: actions/setup-node@v3
         with:
-          node-version: "24.9.0" # Current LTS version
+          node-version: "20.19.5"
 
       - name: Enable Corepack for Yarn v3
         run: corepack enable
