@@ -2657,6 +2657,43 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@internationalized/date@npm:^3.5.4":
+  version: 3.10.0
+  resolution: "@internationalized/date@npm:3.10.0"
+  dependencies:
+    "@swc/helpers": ^0.5.0
+  checksum: cb6a33622ad368e42fd2d05f9c9111644d0861ea6c9305d7d73b85ddb0cd9259c5af37087d8ed05a2a07d76b798b386c89fb85a2dd567b0f4b0cc19770e0d42b
+  languageName: node
+  linkType: hard
+
+"@internationalized/message@npm:^3.1.4":
+  version: 3.1.8
+  resolution: "@internationalized/message@npm:3.1.8"
+  dependencies:
+    "@swc/helpers": ^0.5.0
+    intl-messageformat: ^10.1.0
+  checksum: 2650af228bd227e7eacf667bc01d9bd647af01c5632917fe22cb8fddeb21602abf1417f7a488d37096bf0fccababcacea0d9d064344f98c489c8c8f59a0367fa
+  languageName: node
+  linkType: hard
+
+"@internationalized/number@npm:^3.5.3":
+  version: 3.6.5
+  resolution: "@internationalized/number@npm:3.6.5"
+  dependencies:
+    "@swc/helpers": ^0.5.0
+  checksum: 233bcb21da564313bfaf6748ecdab8d35212fd86be784330ff9e95b9bdea9791c23363cd2c530a6a71b1d1aae322c8836254d9d8bce9c9b37c46a7598e98b071
+  languageName: node
+  linkType: hard
+
+"@internationalized/string@npm:^3.2.3":
+  version: 3.2.7
+  resolution: "@internationalized/string@npm:3.2.7"
+  dependencies:
+    "@swc/helpers": ^0.5.0
+  checksum: 98b84ff3ca6fae9985340a0d73ce550674d23e6a30fec1d8844c67ba914a4a7b36b44599777ea8b5054a080026c8866a7fe6ccb18f0a77c3963ea6b1e5ac15a4
+  languageName: node
+  linkType: hard
+
 "@jimp/bmp@npm:^0.14.0":
   version: 0.14.0
   resolution: "@jimp/bmp@npm:0.14.0"
